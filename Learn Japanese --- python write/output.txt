@@ -1,0 +1,5999 @@
+1
+はじめまして。
+はじめまして。
+hajimemashite
+ 初次见面。
+
+2
+どうぞよろしく。
+どうぞよろしく。
+douzoyoroshiku
+ 请多关照。
+
+3
+よろしくお願いします。
+よろしくおねがいします。
+yoroshikuonegaishimasu
+ 请多关照。
+
+4
+こちらこそよろしくお願いします。
+こちらこそよろしくおねがいします。
+kochirakosoyoroshikuonegaishimasu
+ 也请您多关照。
+
+5
+自己紹介いたします。
+じこしょうかいいたします。
+jikoshoukaiitashimasu
+ 我来自我介绍一下。
+
+6
+これはわたしの名刺です。
+これはわたしのめいしです。
+korehawatashinomeishidesu
+ 这是我的名片。
+
+7
+わたしは李と申します。
+わたしはすももともうします。
+watashihasumomotomoushimasu
+ 我姓李。
+
+8
+山田さんでいらっしゃいますね。
+やまださんでいらっしゃいますね。
+yamadasandeirasshaimasune
+ 您是山田先生吧！
+
+9
+私は山田です。
+わたしはやまだです。
+watashihayamadadesu
+ 我是山田。
+
+10
+あのかたはどなたですか。
+あのかたはどなたですか。
+anokatahadonatadesuka
+ 那位是谁？
+
+11
+こちらは社長の松本です。
+こちらはしゃちょうのまつもとです。
+kochirahashachounomatsumotodesu
+ 这是我们总经理松本。
+
+12
+彼は中国人ではありませんか。
+かれはちゅうごくじんではありませんか。
+karehachuugokujindehaarimasenka
+ 他不是中国人吗？
+
+13
+彼は中国人ではありません。
+かれはちゅうごくじんではありません。
+karehachuugokujindehaarimasen
+ 他不是中国人。
+
+14
+彼は日本人です。
+かれはにほんじんです。
+karehanihonjindesu
+ 他是日本人。
+
+15
+あなたも日本人ですか。
+あなたもにほんじんですか。
+anatamonihonjindesuka
+ 你也是日本人吗？
+
+16
+そうですか。
+そうですか。
+soudesuka
+ 是吗？
+
+17
+はい。
+はい。
+hai
+ 是的。
+
+18
+そうです。
+そうです。
+soudesu
+ 是那样的。
+
+19
+いいえ。
+いいえ。
+iie
+ 不对。
+
+20
+そうではありません。
+そうではありません。
+soudehaarimasen
+ 不是那样的。
+
+21
+いいえ、ちがいます。
+いいえ、ちがいます。
+iie、chigaimasu
+ 不，不对。
+
+22
+よくいらっしゃいました。
+よくいらっしゃいました。
+yokuirasshaimashita
+ 欢迎，欢迎。
+
+23
+お迎えにきました。
+おむかえにきました。
+omukaenikimashita
+ 来欢迎您了。
+
+24
+出迎えに参りました。
+でむかえにまいりました。
+demukaenimairimashita
+ 来欢迎您了。
+
+25
+お疲れでしょう。
+おつかれでしょう。
+otsukaredeshou
+ 路上辛苦了。
+
+26
+ちっとも疲れていません。
+ちっともつかれていません。
+chittomotsukareteimasen
+ 一点也不累。
+
+27
+それはなによりです。
+それはなによりです。
+sorehananiyoridesu
+ 那太好了。
+
+28
+途中はどうでしたか。
+とちゅうはどうでしたか。
+tochuuhadoudeshitaka
+ 旅途顺利吗？
+
+29
+とても順調でした。
+とてもじゅんちょうでした。
+totemojunchoudeshita
+ 很顺利。
+
+30
+いつ上海をたちましたか。
+いつしゃんはいをたちましたか。
+itsushanhaiwotachimashitaka
+ 什么时候离开上海的？
+
+31
+日本は始めてですか。
+にっぽんははじめてですか。
+nipponhahajimetedesuka
+ 是第一次来日本吗？
+
+32
+皆さんのご来訪をお待ちしておりました。
+みなさんのごらいほうをおまちしておりました。
+minasannogoraihouwoomachishiteorimashita
+ 我们在等待着各位的光临。
+
+33
+わざわざお出迎えしていただき、ありがとうございます。
+わざわざおでむかえしていただき、ありがとうございます。
+wazawazaodemukaeshiteitadaki、arigatougozaimasu
+承蒙特意来接，深表谢意！
+
+34
+お忙しいところをありがとうございます。
+おいそがしいところをありがとうございます。
+oisogashiitokorowoarigatougozaimasu
+ 百忙中特意来接，非常感谢！
+
+35
+日本に来た目的は。
+にっぽんにきたもくてきは。
+nipponnikitamokutekiha
+ 来日本的目的是什么？
+
+36
+どのぐらいご滞在の予定ですか。
+どのぐらいごたいざいのよていですか。
+donoguraigotaizainoyoteidesuka
+ 预定停留多久？
+
+37
+二年ないし三年の予定です。
+にねんないしさんねんのよていです。
+ninennaishisannennoyoteidesu
+ 预定二年或三年。
+
+38
+このたび日本に来ることができて、たいへん嬉しく思っています。
+このたびにっぽんにくることができて、たいへんうれしくおもっています。
+konotabinipponnikurukotogadekite、taihen'ureshikuomotteimasu
+ 这次能来日本，感到很高兴。
+
+39
+たいへんお手数をおかけしました。
+たいへんおてすうをおかけしました。
+taihen'otesuuwookakeshimashita
+ 给您添麻烦了。
+
+40
+どういたしまして。
+どういたしまして。
+douitashimashite
+ 不用客气。
+
+41
+おはよございます。
+おはよございます。
+ohayogozaimasu
+ 早上好！
+
+42
+こんにちは。
+こんにちは。
+konnichiha
+ 你好！
+
+43
+こんばんは。
+こんばんは。
+konbanha
+ 晚上好！
+
+44
+おやすみなさい。
+おやすみなさい。
+oyasuminasai
+ 晚安！
+
+45
+ご飯ですよ。
+ごめしですよ。
+gomeshidesuyo
+ 吃饭了！
+
+46
+いただきます。
+いただきます。
+itadakimasu
+ 我吃饭啦。
+
+47
+ごちそうさま。
+ごちそうさま。
+gochisousama
+ 承蒙款待，谢谢！
+
+48
+お粗末でした。
+おそまつでした。
+osomatsudeshita
+ 粗茶淡饭，不值一提。
+
+49
+ただいま。
+ただいま。
+tadaima
+ 我回来了。
+
+50
+おかえりなさい。
+おかえりなさい。
+okaerinasai
+ 你回来啦。
+
+51
+行ってきます。
+いってきます。
+ittekimasu
+ 我出去一会儿。
+
+52
+行ってまいります。
+いってまいります。
+ittemairimasu
+ 我出去一下。
+
+53
+行ってらっしゃい。
+いってらっしゃい。
+itterasshai
+ 你出去啦。
+
+54
+ご苦労様でした。
+ごくろうさまでした。
+gokurousamadeshita
+ 辛苦啦。
+
+55
+気をつけて。
+きをつけて。
+kiwotsukete
+ 小心点。
+
+56
+すぐ来ます。
+すぐきます。
+sugukimasu
+ 马上就来。
+
+57
+今日はいいお天気ですね。
+こんにちはいいおてんきですね。
+konnichihaiiotenkidesune
+ 今天天气真好。
+
+58
+どうです。
+どうです。
+doudesu
+ 怎么样？
+
+59
+テニスをしませんか。
+テニスをしませんか。
+tenisuwoshimasenka
+ 打网球好吗？
+
+60
+今日は会社の当番です。
+こんにちはかいしゃのとうばんです。
+konnichihakaishanotoubandesu
+ 今天公司我值班。
+
+61
+失礼です。
+しつれいです。
+shitsureidesu
+ 对不起。失礼了。
+
+62
+あしたまた。
+あしたまた。
+ashitamata
+ 明天见。
+
+63
+どこへ。
+どこへ。
+dokohe
+ 到哪儿去？
+
+64
+お元気ですか。
+おげんきですか。
+ogenkidesuka
+ 你身体好吗？
+
+65
+おかげさまで。
+おかげさまで。
+okagesamade
+ 托您福，很好！
+
+66
+奥さんもお元気ですか。
+おくさんもおげんきですか。
+okusanmoogenkidesuka
+ 夫人身体也好吗？
+
+67
+ちかごろはおかわりありませんか。
+ちかごろはおかわりありませんか。
+chikagorohaokawariarimasenka
+ 最近身体好吗？
+
+68
+あいかわらずです。
+あいかわらずです。
+aikawarazudesu
+ 身体仍旧很好。
+
+69
+しばらくでした。
+しばらくでした。
+shibarakudeshita
+ 好久不见了。
+
+70
+お久しぶりですね。
+おひさしぶりですね。
+ohisashiburidesune
+ 好久不见了。
+
+71
+またお会いできて嬉しいです。
+またおあいできてうれしいです。
+mataoaidekiteureshiidesu
+ 能再见到你，我很高兴。
+
+72
+どこへお出かけですか。
+どこへおでかけですか。
+dokoheodekakedesuka
+ 您到哪儿去？
+
+73
+どこへ行くのですか。
+どこへいくのですか。
+dokoheikunodesuka
+ 您到哪儿去？
+
+74
+ちょっと学校へ行ってきます。
+ちょっとがっこうへいってきます。
+chottogakkouheittekimasu
+ 到学校去去就来。
+
+75
+ちょっとそこまで。
+ちょっとそこまで。
+chottosokomade
+ 到那儿去。
+
+76
+新宿へ行きます。
+しんじゅくへいきます。
+shinjukuheikimasu
+ 去新宿。
+
+77
+お先に。
+おさきに。
+osakini
+ 我先走啦。
+
+78
+さようなら。
+さようなら。
+sayounara
+ 再见！
+
+79
+ではまた。
+ではまた。
+dehamata
+ 再见！
+
+80
+ごめんください。
+ごめんください。
+gomenkudasai
+ 屋里有人吗？
+
+81
+どちらさまですか。
+どちらさまですか。
+dochirasamadesuka
+ 是哪位？
+
+82
+お入りください。
+おいりください。
+oirikudasai
+ 请进。
+
+83
+どうもすみません。
+どうもすみません。
+doumosumimasen
+ 对不起。
+
+84
+どうぞこちらへ。
+どうぞこちらへ。
+douzokochirahe
+ 请到这儿来。
+
+85
+お邪魔します。
+おじゃまします。
+ojamashimasu
+ 打扰了。
+
+86
+どうぞ、おかけください。
+どうぞ、おかけください。
+douzo、okakekudasai
+ 请坐。
+
+87
+これは土産です。
+これはみやげです。
+korehamiyagedesu
+ 这是礼品。
+
+88
+中国の名茶を差し上げます。
+ちゅうごくのめいちゃをさしあげます。
+chuugokunomeichawosashiagemasu
+ 送中国名茶给你。
+
+89
+つまらないものですが、お受け取りください。
+つまらないものですが、おうけとりください。
+tsumaranaimonodesuga、ouketorikudasai
+ 一点不值钱的东西，请收下吧。
+
+90
+ほんの気持ちばかりです。
+ほんのきもちばかりです。
+honnokimochibakaridesu
+ 一点儿心意。
+
+91
+そんなに気を使わなくてもいいですよ。
+そんなにきをつかわなくてもいいですよ。
+sonnanikiwotsukawanakutemoiidesuyo
+ 不必那么客气。
+
+92
+では、ありがたく受け取ります。
+では、ありがたくうけとります。
+deha、arigatakuuketorimasu
+ 那么，我就荣幸地收下啦。
+
+93
+あらたまって、そんなことしなくてもいいんだよ。
+あらたまって、そんなことしなくてもいいんだよ。
+aratamatte、sonnakotoshinakutemoiindayo
+ 用不着那么慎重其事。
+
+94
+いつもお世話になっております。
+いつもおせわになっております。
+itsumoosewaninatteorimasu
+ 总是承蒙您关照。
+
+95
+それはありがとう。
+それはありがとう。
+sorehaarigatou
+ 那就谢谢了。
+
+96
+食事の用意ができました。
+しょくじのよういができました。
+shokujinoyouigadekimashita
+ 饭准备好啦。
+
+97
+おなかが空いたでしょう。
+おなかがあいたでしょう。
+onakagaaitadeshou
+ 肚子饿了吧。
+
+98
+すばらしいお料理ですね。
+すばらしいおりょうりですね。
+subarashiioryouridesune
+ 真漂亮的饭菜啊。
+
+99
+いや、なにもないけれど。
+いや、なにもないけれど。
+iya、nanimonaikeredo
+ 不，没什么可招待的。
+
+100
+好きなものをどんどん召し上がってください。
+すきなものをどんどんめしあがってください。
+sukinamonowodondonmeshiagattekudasai
+ 喜欢吃什么尽量吃吧
+
+101
+お口に合いますか。
+おくちにあいますか。
+okuchiniaimasuka
+ 合您口味吗？
+
+102
+日本料理はおいしいですか。
+にほんりょうりはおいしいですか。
+nihonryourihaoishiidesuka
+ 日本菜好吃吗？
+
+103
+みんなとても美味しいですね。
+みんなとてもおいしいですね。
+minnatotemooishiidesune
+ 全都很好吃。
+
+104
+もっといかがですか。
+もっといかがですか。
+mottoikagadesuka
+ 再吃一点吧。
+
+105
+もう十分いただきました。
+もうじゅうぶんいただきました。
+moujuubun'itadakimashita
+ 已经吃得很饱了。
+
+106
+大変お邪魔しました。
+たいへんおじゃましました。
+taihen'ojamashimashita
+ 太打扰你啦。
+
+107
+失礼いたします。
+しつれいいたします。
+shitsureiitashimasu
+ 告辞了。
+
+108
+今日は大変ご馳走になりました。
+こんにちはたいへんごちそうになりました。
+konnichihataihengochisouninarimashita
+ 今天饭菜太丰盛啦。
+
+109
+今日(きょうの料理は家内の手料理ですよ。
+きょう(きょうのりょうりはかないのてりょうりですよ。
+kyou(kyounoryourihakanainoteryouridesuyo
+今天的菜全是内人亲手做的。
+
+110
+お褒めに預かって、ありがとうございました。
+おほめにあずかって、ありがとうございました。
+ohomeniazukatte、arigatougozaimashita
+ 承蒙夸奖，深表感谢。
+
+111
+今日はゆっくりいってください。
+こんにちはゆっくりいってください。
+konnichihayukkuriittekudasai
+ 今天就多坐会儿吧。
+
+112
+午後、まだ少〔すこし用事があります。
+ごご、まだしょう〔すこしようじがあります。
+gogo、madashou〔sukoshiyoujigaarimasu
+ 下午还有点事儿。
+
+113
+この次、ゆっくりお邪魔します。
+このつぎ、ゆっくりおじゃまします。
+konotsugi、yukkuriojamashimasu
+ 下次再来讨扰吧。
+
+114
+まだよろしいのではありませんか。
+まだよろしいのではありませんか。
+madayoroshiinodehaarimasenka
+ 时间不是还早吗。
+
+115
+では、ご好意に甘えさせていただきます。
+では、ごこういにあまえさせていただきます。
+deha、gokouiniamaesaseteitadakimasu
+ 那么，我就领受你的盛情啦。
+
+116
+今日はお招きいただきまして、ありがとうございました。
+こんにちはおまねきいただきまして、ありがとうございました。
+konnichihaomanekiitadakimashite、arigatougozaimashita
+谢谢你今天的盛情款待。
+
+117
+今日は何のおかまいもできませんでした。
+こんにちはなんのおかまいもできませんでした。
+konnichihanannookamaimodekimasendeshita
+ 今天招待不周。
+
+118
+もうそろそろ失礼します。
+もうそろそろしつれいします。
+mousorosoroshitsureishimasu
+ 我现在告辞了。
+
+119
+もしもし。
+もしもし。
+moshimoshi
+ 喂喂。
+
+120
+夏子でございます。
+なつこでございます。
+natsukodegozaimasu
+ 我是夏子。
+
+121
+こちら、南京大学の王ともします。
+こちら、なんきんだいがくのおうともします。
+kochira、nankindaigakunooutomoshimasu
+我是南京大学的小王。
+
+122
+王さんは今どちらにいますか。
+おうさんはいまどちらにいますか。
+ousanhaimadochiraniimasuka
+ 小王，你现在在哪里？
+
+123
+ご主人ご在宅でいらっしゃいますか。
+ごしゅじんございたくでいらっしゃいますか。
+goshujingozaitakudeirasshaimasuka
+ 您丈夫在府上吗？
+
+124
+そちら、木村さんのお宅ですか。
+そちら、きむらさんのおたくですか。
+sochira、kimurasannootakudesuka
+ 是木村先生家吗？
+
+125
+木村さんはいらっしゃいますか。
+きむらさんはいらっしゃいますか。
+kimurasanhairasshaimasuka
+ 木村先生在家吗？
+
+126
+お元気でいらっしゃいますか。
+おげんきでいらっしゃいますか。
+ogenkideirasshaimasuka
+ 您身体好吗？
+
+127
+お待たせいたしました。
+おまたせいたしました。
+omataseitashimashita
+ 让您久等了。
+
+128
+ちょっとお待ちください。
+ちょっとおまちください。
+chottoomachikudasai
+ 请稍等。
+
+129
+東京にいます。
+とうきょうにいます。
+toukyouniimasu
+ 在东京。
+
+130
+主人は今、ちょっと外出しているんですか。
+しゅじんはいま、ちょっとがいしゅつしているんですか。
+shujinhaima、chottogaishutsushiteirundesuka
+我丈夫刚出去一会儿。
+
+131
+外出中ですが、何かことづけがございましたら......。
+がいしゅつちゅうですが、なにかことづけがございましたら......。
+gaishutsuchuudesuga、nanikakotozukegagozaimashitara......
+ 现在不在家，如果有什么口信的话......。
+
+132
+伝言をお願いできますか。
+でんごんをおねがいできますか。
+dengonwoonegaidekimasuka
+ 你可以告诉他吗？
+
+133
+こちらからお電話いたしましょうか。
+こちらからおでんわいたしましょうか。
+kochirakaraodenwaitashimashouka
+ 给您打电话吧。
+
+134
+番号(ばんごうを間違えました。
+ばんごう(ばんごうをまちがえました。
+bangou(bangouwomachigaemashita
+ 拨错号码了。
+
+135
+王さんから電話があったと伝えておいてください。
+おうさんからでんわがあったとつたえておいてください。
+ousankaradenwagaattatotsutaeteoitekudasai
+ 请转告，就说小王来过电话。
+
+136
+何時ごろお戻りになりますでしょう。
+なんじごろおもどりになりますでしょう。
+nanjigoroomodorininarimasudeshou
+ 几点钟能回来？
+
+137
+国際電話を掛けたいのです。
+こくさいでんわをかけたいのです。
+kokusaidenwawokaketainodesu
+ 我想打国际电话。
+
+138
+この電話でいいですか。
+このでんわでいいですか。
+konodenwadeiidesuka
+ 可以用这个电话吗？
+
+139
+掛け方を教えてくださいませんか。
+かけほうをおしえてくださいませんか。
+kakehouwooshietekudasaimasenka
+ 请告诉我打电话的方法好吗？
+
+140
+私は掛けてあげます。
+わたしはかけてあげます。
+watashihakaketeagemasu
+ 我帮你打吧。
+
+141
+お支払いはどちらですか。
+おしはらいはどちらですか。
+oshiharaihadochiradesuka
+ 请问话费由哪一方支付？
+
+142
+コレクトコールにしてください。
+コレクトコールにしてください。
+korekutokoorunishitekudasai
+ 由对方付款。
+
+143
+料金は相手払いにしてください。
+りょうきんはあいてはらいにしてください。
+ryoukinhaaiteharainishitekudasai
+ 话费请对方付。
+
+144
+お手数でございますが、山田さんを電話口までおよび願えませんでしょうか。
+おてすうでございますが、やまださんをでんわぐちまでおよびねがえませんでしょうか。
+otesuudegozaimasuga、yamadasanwodenwaguchimadeoyobinegaemasendeshouka
+对不起，麻烦您请山田先生听电话好吗？
+
+145
+すみませんが、山田さんをお願いします。
+すみませんが、やまださんをおねがいします。
+sumimasenga、yamadasanwoonegaishimasu
+ 对不起，请山田先生听电话。
+
+146
+北京につないでください。
+ぺきんにつないでください。
+pekinnitsunaidekudasai
+ 请接北京。
+
+147
+電話番号をお願いします。
+でんわばんごうをおねがいします。
+denwabangouwoonegaishimasu
+ 请告诉我电话号码。
+
+148
+電話番号を知らせてください。
+でんわばんごうをしらせてください。
+denwabangouwoshirasetekudasai
+ 请告诉我电话号码。
+
+149
+そちらは五四六の九二八六番ですか。
+そちらはごしろくのきゅうにはちろくばんですか。
+sochirahagoshirokunokyuunihachirokubandesuka
+ 请问是546——9286吗？
+
+150
+内線の四零六番をお願いします。
+ないせんのしれいろくばんをおねがいします。
+naisennoshireirokubanwoonegaishimasu
+      请转406分机。
+
+151
+その電話をこちらに回してください。
+そのでんわをこちらにまわしてください。
+sonodenwawokochiranimawashitekudasai
+ 请把那个电话转给我。
+
+152
+電報を打ちたいんですが。
+でんぽうをうちたいんですが。
+denpouwouchitaindesuga
+ 我要打个电报。
+
+153
+至急電報ですか、それとも普通電報ですか。
+しきゅうでんぽうですか、それともふつうでんぽうですか。
+shikyuudenpoudesuka、soretomofutsuudenpoudesuka
+  是加急，还是普通电报？
+
+154
+何時間で北京に着きますか。
+なんじかんでぺきんにつきますか。
+nanjikandepekinnitsukimasuka
+ 几小时能到北京？
+
+155
+いつ届きますか。
+いつとどきますか。
+itsutodokimasuka
+ 什么时候可以到达？
+
+156
+普通電報でしたら、半日(はんじつ。
+ふつうでんぽうでしたら、はんにち(はんじつ。
+futsuudenpoudeshitara、hannichi(hanjitsu
+至急電報でしたら、二時間ぐらいで着きます。 普通电报要半天，加急电报二个小时左右可以到达。
+
+157
+じゃ、普通電報でこれをお願いします。
+じゃ、ふつうでんぽうでこれをおねがいします。
+ja、futsuudenpoudekorewoonegaishimasu
+ 那么，用普通电报把这发出去。
+
+158
+全部で二十九字ですね。
+ぜんぶでにじゅうきゅうじですね。
+zenbudenijuukyuujidesune
+３４８円です。一共29个字，348日元。
+
+159
+一字七銭ですから、二元三銭です。
+いちじしちせんですから、にげんさんせんです。
+ichijishichisendesukara、nigensansendesu
+一个字七分钱，共二元零三分。
+
+160
+至急電報にします。
+しきゅうでんぽうにします。
+shikyuudenpounishimasu
+ 拍加急电报。
+
+161
+電報発信紙に電文を書いてください。
+でんぽうはっしんかみにでんぶんをかいてください。
+denpouhasshinkaminidenbunwokaitekudasai
+ 把电文写在电报纸上。
+
+162
+どんな急用ですか。
+どんなきゅうようですか。
+donnakyuuyoudesuka
+ 有什么急事吗？
+
+163
+父に送金してほしいのです。
+ちちにそうきんしてほしいのです。
+chichinisoukinshitehoshiinodesu
+ 想请父亲寄些钱来。
+
+164
+電文を書いてあげます。
+でんぶんをかいてあげます。
+denbunwokaiteagemasu
+ 我帮你写电文吧。
+
+165
+電報料金はいくらですか。
+でんぽうりょうきんはいくらですか。
+denpouryoukinhaikuradesuka
+ 电报费要多少钱？
+
+166
+承知しました。
+しょうちしました。
+shouchishimashita
+ 知道了。
+
+167
+分かりました。
+わかりました。
+wakarimashita
+ 明白了。
+
+168
+かしこまりました。
+かしこまりました。
+kashikomarimashita
+ 知道了。
+
+169
+中国への航空便は何日で届きますか。
+ちゅうごくへのこうくうびんはなんにちでとどきますか。
+chuugokuhenokoukuubinhanannichidetodokimasuka
+ 寄往中国的航空信要几天能到？
+
+170
+早いところは四日間、遠いところは一週間ぐらいかかります。
+はやいところはよっかかん、とおいところはいっしゅうかんぐらいかかります。
+hayaitokorohayokkakan、tooitokorohaisshuukanguraikakarimasu
+ 快的地方四天，远的地方要一周左右。
+
+171
+四日間から一週間ぐらいです。
+よっかかんからいっしゅうかんぐらいです。
+yokkakankaraisshuukanguraidesu
+ 要四天到一周左右。
+
+172
+北京への速達をお願いします。
+ぺきんへのそくたつをおねがいします。
+pekinhenosokutatsuwoonegaishimasu
+ 请给我寄到北京的快信。
+
+173
+手紙は少しオーバーしているようですが、量ってください。
+てがみはすこしオーバーしているようですが、りょうってください。
+tegamihasukoshioobaashiteiruyoudesuga、ryouttekudasai
+ 信好象有点超重，请称一下。
+
+174
+切手を貼りました。
+きってをはりました。
+kittewoharimashita
+ 邮票贴好了。
+
+175
+郵便料金はいくらですか。
+ゆうびんりょうきんはいくらですか。
+yuubinryoukinhaikuradesuka
+ 邮费是多少钱？
+
+176
+１０グラム以下の手紙は９０円の切手を貼ってください。
+１０グラムいかのてがみは９０えんのきってをはってください。
+１０guramuikanotegamiha９０ennokittewohattekudasai
+ 10克以下的信贴90日元邮票。
+
+177
+手紙はどこに入れますか。
+てがみはどこにいれますか。
+tegamihadokoniiremasuka
+ 信投进什么地方？
+
+178
+国外のほうへのポストボックスに入れてください。
+こくがいのほうへのポストボックスにいれてください。
+kokugainohouhenoposutobokkusuniiretekudasai
+ 请投寄往国外的邮箱。
+
+179
+この手紙を航空便でお願いします。
+このてがみをこうくうびんでおねがいします。
+konotegamiwokoukuubindeonegaishimasu
+ 这封信请寄航空。
+
+180
+郵便ポストに入れれば郵送してくれます。
+ゆうびんポストにいれればゆうそうしてくれます。
+yuubinposutoniirerebayuusoushitekuremasu
+ 如果投入邮箱，就能邮送出去。
+
+181
+六十円の切手を五枚と三十五円の葉書を１０枚ください。
+ろくじゅうえんのきってをごまいとさんじゅうごえんのはがきを１０まいください。
+rokujuuennokittewogomaitosanjuugoennohagakiwo１０maikudasai
+ 请给我60日元的邮票5张，35日元的明信片10张。
+
+182
+３５円のはがきはもう売り切れなんですが。
+３５えんのはがきはもううりきれなんですが。
+３５ennohagakihamouurikirenandesuga
+ 35日元的明信片卖完了。
+
+183
+４０円のをください。
+４０えんのをください。
+４０ennowokudasai
+ 请给40日元的吧。
+
+184
+４０円のを１０枚ですね。
+４０えんのを１０まいですね。
+４０ennowo１０maidesune
+ 40日元的10张，对吗？
+
+185
+いくらかかりますか。
+いくらかかりますか。
+ikurakakarimasuka
+ 要多少钱？
+
+186
+大阪に小包を送りたいんですが。
+おおさかにこづつみをおくりたいんですが。
+oosakanikozutsumiwookuritaindesuga
+ 想往大阪寄个包裹。
+
+187
+１キロまで１２００円です。
+１キロまで１２００えんです。
+１kiromade１２００endesu
+これから1キロごとに８０円ずつ増えます。1公斤以内1200日元，每超过1公斤加收80日元。
+
+188
+小包を宅急便で出したいんですが。
+こづつみをたっきゅうびんでだしたいんですが。
+kozutsumiwotakkyuubindedashitaindesuga
+ 想把这包裹办特快专递。
+
+189
+こちらでお願いできますか。
+こちらでおねがいできますか。
+kochiradeonegaidekimasuka
+ 我能拜托你吗？
+
+190
+宅急便をとり扱っております。
+たっきゅうびんをとりあつかっております。
+takkyuubinwotoriatsukatteorimasu
+ 办理特快专递。
+
+191
+印刷小包ですと、値段が半分以下になります。
+いんさつこづつみですと、ねだんがはんぶんいかになります。
+insatsukozutsumidesuto、nedangahanbun'ikaninarimasu
+ 如果寄印刷品，邮费减半。
+
+192
+船便にしますか。
+ふなびんにしますか。
+funabinnishimasuka
+ 寄海运吗？
+
+193
+はっきりしたことはいえません。
+はっきりしたことはいえません。
+hakkirishitakotohaiemasen
+ 准确地不好说。
+
+194
+小包の中に手紙を入れることはできません。
+こづつみのなかにてがみをいれることはできません。
+kozutsuminonakanitegamiwoirerukotohadekimasen
+ 包裹中不能夹寄信件。
+
+195
+君の小包はどこで受け取るのかな。
+くんのこづつみはどこでうけとるのかな。
+kunnokozutsumihadokodeuketorunokana
+ 你的包裹到哪儿取呢？
+
+196
+身分証明書をお持ちですか。
+みぶんしょうめいしょをおもちですか。
+mibunshoumeishowoomochidesuka
+ 带身份证了吗？
+
+197
+学生証を持っています。
+がくせいしょうをもっています。
+gakuseishouwomotteimasu
+ 带了学生证。
+
+198
+この通知書にサインしてください。
+このつうちしょにサインしてください。
+konotsuuchishonisainshitekudasai
+ 请在这通知书上签字。
+
+199
+保管期間を三日間すぎっています。
+ほかんきかんをみっかかんすぎっています。
+hokankikanwomikkakansugitteimasu
+ 保管期超过3天。
+
+200
+超過料金として３００円いただきます。
+ちょうかりょうきんとして３００まるいただきます。
+choukaryoukintoshite３００maruitadakimasu
+ 收你超期保管费300日元。
+
+201
+この座席はどこですか。
+このざせきはどこですか。
+konozasekihadokodesuka
+ 这个座位在哪儿？
+
+202
+お客様はBの８席ですから、そちらでございます。
+おきゃくさまはBの８せきですから、そちらでございます。
+okyakusamahaBno８sekidesukara、sochiradegozaimasu
+ 您是B8座，在那儿。
+
+203
+お客様、何か飲み物はいかがですか。
+おきゃくさま、なにかのみものはいかがですか。
+okyakusama、nanikanomimonohaikagadesuka
+ 您喝点什么吗？
+
+204
+どんなのがありますか。
+どんなのがありますか。
+donnanogaarimasuka
+ 请问都有些什么？
+
+205
+コーヒー、ビール、ジューストなっていますが。
+コーヒー、ビール、ジューストなっていますが。
+koohii、biiru、juusutonatteimasuga
+ 有咖啡，啤酒和桔子汁。
+
+206
+私はジュースをもらいます。
+わたしはジュースをもらいます。
+watashihajuusuwomoraimasu
+ 我要杯桔子汁。
+
+207
+この健康質問表に必要な事項を書き込んでください。
+このけんこうしつもんおもてにひつようなじこうをかきこんでください。
+konokenkoushitsumon'omotenihitsuyounajikouwokakikondekudasai
+ 请填写这张健康调查表，必要项目都填上。
+
+208
+書き終わりました。
+かきおわりました。
+kakiowarimashita
+ 填好了。
+
+209
+できれば三年ほど滞在したいと思います。
+できればさんねんほどたいざいしたいとおもいます。
+dekirebasannenhodotaizaishitaitoomoimasu
+ 可能的话我想呆三年左右。
+
+210
+学費や生活費用などは保証人が出してくれるのでしょうか。
+がくひやせいかつひようなどはほしょうにんがだしてくれるのでしょうか。
+gakuhiyaseikatsuhiyounadohahoshouningadashitekurerunodeshouka
+学费和生活费等都由保证人负担吗？
+
+211
+両親の送金で賄います。
+りょうしんのそうきんでまかないます。
+ryoushinnosoukindemakanaimasu
+ 由父母寄钱供给。
+
+212
+手続きはどこですか。
+てつづきはどこですか。
+tetsuzukihadokodesuka
+ 在哪儿办手续？
+
+213
+旅券を見せてください。
+りょけんをみせてください。
+ryokenwomisetekudasai
+ 请出示护照。
+
+214
+入国の際、自分で出してください。
+にゅうこくのきわ、じぶんでだしてください。
+nyuukokunokiwa、jibundedashitekudasai
+ 入境时自己拿出来。
+
+215
+次は税関へ行ってください。
+つぎはぜいかんへいってください。
+tsugihazeikanheittekudasai
+ 接下来请去海关。
+
+216
+気分がちょっと悪い。
+きぶんがちょっとわるい。
+kibungachottowarui
+ 身体有点不舒服。
+
+217
+何か薬をくださいませんか。
+なにかくすりをくださいませんか。
+nanikakusuriwokudasaimasenka
+ 请给点药好吗？
+
+218
+荷物はこれだけですか。
+にもつはこれだけですか。
+nimotsuhakoredakedesuka
+ 行李就这些吗？
+
+219
+携帯品申告書を見せてください。
+けいたいひんしんこくしょをみせてください。
+keitaihinshinkokushowomisetekudasai
+ 请让我看一下随带行李申报单。
+
+220
+申告漏れはありませんか。
+しんこくもれはありませんか。
+shinkokumorehaarimasenka
+ 有没有漏报的？
+
+221
+このトランクとスーツケースです。
+このトランクとスーツケースです。
+konotorankutosuutsukeesudesu
+ 这个箱子和手提箱。
+
+222
+荷物を全部あけてください。
+にもつをぜんぶあけてください。
+nimotsuwozenbuaketekudasai
+ 请把行李全部打开。
+
+223
+何か申告するものはありませんか。
+なにかしんこくするものはありませんか。
+nanikashinkokusurumonohaarimasenka
+ 有没有需要申报的东西？
+
+224
+酒は四本持ってきました。
+さけはよんほんもってきました。
+sakehayonhonmottekimashita
+ 我带来了4瓶酒。
+
+225
+心配入りません。
+しんぱいいりません。
+shinpaiirimasen
+ 不用担心。
+
+226
+余分に税金を払われたら結構です。
+よぶんにぜいきんをはらわれたらけっこうです。
+yobunnizeikinwoharawaretarakekkoudesu
+ 多余部分交税就行了。
+
+227
+こういうものは課税されますか。
+こういうものはかぜいされますか。
+kouiumonohakazeisaremasuka
+ 这种东西要上税吗？
+
+228
+税金を払います。
+ぜいきんをはらいます。
+zeikinwoharaimasu
+ 我交税。
+
+229
+こんなものですと三千円です。
+こんなものですとさんぜんえんです。
+konnamonodesutosanzen'endesu
+ 这个要上税三千日元。
+
+230
+絵と芸術品も税金を払わなければなりませんか。
+えとげいじゅつひんもぜいきんをはらわなければなりませんか。
+etogeijutsuhinmozeikinwoharawanakerebanarimasenka
+ 画和艺术品也要上税吗？
+
+231
+これは免税です。
+これはめんぜいです。
+korehamenzeidesu
+ 这个免税。
+
+232
+ほかにもうありませんか。
+ほかにもうありませんか。
+hokanimouarimasenka
+ 没有别的东西了吧？
+
+233
+これでもうよろしいですか。
+これでもうよろしいですか。
+koredemouyoroshiidesuka
+ 这样可以了吗？
+
+234
+検査はこれで終わりました。
+けんさはこれでおわりました。
+kensahakoredeowarimashita
+ 检查到此结束。
+
+235
+通関の手続きはこれで終わります。
+つうかんのてつづきはこれでおわります。
+tsuukannotetsuzukihakoredeowarimasu
+ 报关手续到此为止。
+
+236
+どこで荷物を受け取りますか。
+どこでにもつをうけとりますか。
+dokodenimotsuwouketorimasuka
+ 在哪儿领行李？
+
+237
+あのカウンターで荷物を受け取ってください。
+あのカウンターでにもつをうけとってください。
+anokauntaadenimotsuwouketottekudasai
+ 请在那个服务台领取行李。
+
+238
+超過荷物はいくら払いますか。
+ちょうかにもつはいくらはらいますか。
+choukanimotsuhaikuraharaimasuka
+ 超重行李要付多少钱？
+
+239
+あの出口から出てください。
+あのでぐちからでてください。
+anodeguchikaradetekudasai
+ 请从那个出口出去。
+
+240
+外国人登録をお願いします。
+がいこくじんとうろくをおねがいします。
+gaikokujintourokuwoonegaishimasu
+ 我请求外国人登记。
+
+241
+外国人登録所はどこですか。
+がいこくじんとうろくところはどこですか。
+gaikokujintourokutokorohadokodesuka
+ 外国人居留登记处在哪儿？
+
+242
+登録証明書をお願いします。
+とうろくしょうめいかきをおねがいします。
+tourokushoumeikakiwoonegaishimasu
+ 请给我一份登记证明书。
+
+243
+書いていただけませんか。
+かいていただけませんか。
+kaiteitadakemasenka
+ 请你替我填一下好吗？
+
+244
+お預かりします。
+おあずかりします。
+oazukarishimasu
+ 先放在我这儿。
+
+245
+登録所を渡してください。
+とうろくところをわたしてください。
+tourokutokorowowatashitekudasai
+ 请把登记证明书交给我。
+
+246
+十二番の窓口でお金を払ってください。
+じゅうにばんのまどぐちでおきんをはらってください。
+juunibannomadoguchideokinwoharattekudasai
+ 请到12号窗口付钱。
+
+247
+証明書も十二番で渡します。
+しょうめいしょもじゅうにばんでわたします。
+shoumeishomojuunibandewatashimasu
+ 证明书也交到12号窗口。
+
+248
+印鑑は要りません。
+いんかんはいりません。
+inkanhairimasen
+ 不用印章。
+
+249
+証明書をお返しします。
+しょうめいしょをおかえしします。
+shoumeishowookaeshishimasu
+ 证明书还给你。
+
+250
+「外国人登録証明書」は二週間後にできます。
+「がいこくじんとうろくしょめいかき」はにしゅうかんごにできます。
+「gaikokujintourokushomeikaki」hanishuukangonidekimasu
+ 外国人居留证明二周后办好。
+
+251
+この「交付予定期間指定書」を持って取りにきてください。
+この「こうふよていきかんしていかき」をもってとりにきてください。
+kono「koufuyoteikikanshiteikaki」womottetorinikitekudasai
+请拿这个“发放预定期指定书”来取。
+
+252
+私の代わりに、ほかの人に来てもらってもよろしいのでしょうか。
+わたしのかわりに、ほかのにんにきてもらってもよろしいのでしょうか。
+watashinokawarini、hokanoninnikitemorattemoyoroshiinodeshouka
+能请别人替我来取吗？
+
+253
+やはりご本人が取りに来てください。
+やはりごほんにんがとりにきてください。
+yaharigohonningatorinikitekudasai
+ 还是请您本人来取。
+
+254
+自分で取りにきます。
+じぶんでとりにきます。
+jibundetorinikimasu
+ 我自己来取。
+
+255
+東京行きの飛行機を予約したいのですが。
+とうきょういききのひこうきをよやくしたいのですが。
+toukyouikikinohikoukiwoyoyakushitainodesuga
+ 我想预订到东京的机标。
+
+256
+東京へ行きたいので、今切符を予約したいのですが。
+とうきょうへいきたいので、いまきっぷをよやくしたいのですが。
+toukyouheikitainode、imakippuwoyoyakushitainodesuga
+ 我要去东京，现在就想订机票。
+
+257
+明日午前のですが、ありますか。
+あしたごぜんのですが、ありますか。
+ashitagozennodesuga、arimasuka
+ 有明天上午的吗？
+
+258
+すみません、満席です。
+すみません、まんせきです。
+sumimasen、mansekidesu
+ 对不起，满员了。
+
+259
+午後のではいかがでしょうか。
+ごごのではいかがでしょうか。
+gogonodehaikagadeshouka
+ 下午的怎么样？
+
+260
+それにしましょう。
+それにしましょう。
+sorenishimashou
+ 那就下午的吧。
+
+261
+何枚ですか。
+なんまいですか。
+nanmaidesuka
+ 要几张？
+
+262
+一枚だけです。
+いちまいだけです。
+ichimaidakedesu
+ 只要一张。
+
+263
+ファーストクラスですか。
+ファーストクラスですか。
+faasutokurasudesuka
+ 要头等舱吗？
+
+264
+それともエコノミークラスですか。
+それともエコノミークラスですか。
+soretomoekonomiikurasudesuka
+ 还是要普通舱？
+
+265
+エコノミークラスです。
+エコノミークラスです。
+ekonomiikurasudesu
+ 要普通舱。
+
+266
+何時発ですか。
+なんじはつですか。
+nanjihatsudesuka
+ 几点起飞？
+
+267
+午後三時半です。
+ごごさんじはんです。
+gogosanjihandesu
+ 是下午三点半。
+
+268
+二時間前に空港に着いたら結構です。
+にじかんまえにくうこうについたらけっこうです。
+nijikanmaenikuukounitsuitarakekkoudesu
+ 提前二小时到机场就行。
+
+269
+空港までは直行のバスはありますか。
+くうこうまではちょっこうのバスはありますか。
+kuukoumadehachokkounobasuhaarimasuka
+ 有直达机场的公共汽车吗？
+
+270
+午後一時半に銀座前からバスが出ます。
+ごごいちじはんにぎんざぜんからバスがでます。
+gogoichijihanniginzazenkarabasugademasu
+ 下午1点半在银座发车。
+
+271
+いつ大阪に着きますか。
+いつおおさかにつきますか。
+itsuoosakanitsukimasuka
+ 什么时候到达大阪？
+
+272
+明日は名古屋へ行きたいので。
+あしたはなごやへいきたいので。
+ashitahanagoyaheikitainode
+ 明天想去名古屋。
+
+273
+新幹線をお使いますか。
+しんかんせんをおつかいますか。
+shinkansenwootsukaimasuka
+ 坐新干线吗？
+
+274
+新幹線で行きたいです。
+しんかんせんでいきたいです。
+shinkansendeikitaidesu
+ 想坐新干线去。
+
+275
+十四日の名古屋への切符を予約したいのですが。
+じゅうよんにちのなごやへのきっぷをよやくしたいのですが。
+juuyonnichinonagoyahenokippuwoyoyakushitainodesuga
+ 我想预定14日到名古屋的车票。
+
+276
+十四日の切符はちょっと。
+じゅうよんにちのきっぷはちょっと。
+juuyonnichinokippuhachotto
+ 14日的票恐怕有点，，，。
+
+277
+他の行き方がありますか。
+ほかのいきかたがありますか。
+hokanoikikatagaarimasuka
+ 有其它走法吗？
+
+278
+大阪行きの寝台急行を二枚ください。
+おおさかいききのしんだいきゅうこうをにまいください。
+oosakaikikinoshindaikyuukouwonimaikudasai
+ 请给二张到大阪的直快卧铺票。
+
+279
+日帰りするつもりです。
+ひがえりするつもりです。
+higaerisurutsumoridesu
+ 打算当天返回。
+
+280
+往復が買えますか。
+おうふくがかえますか。
+oufukugakaemasuka
+ 能买往返票吗？
+
+281
+何時に着きますか。
+なんじにつきますか。
+nanjinitsukimasuka
+ 几点到达？
+
+282
+自由席は予約が要りません。
+じゆうせきはよやくがいりません。
+jiyuusekihayoyakugairimasen
+ 散席票不用预订。
+
+283
+汽車の切符を払い戻したいのですが。
+きしゃのきっぷをはらいもどしたいのですが。
+kishanokippuwoharaimodoshitainodesuga
+ 我想退火车票。
+
+284
+次の水曜日に伸ばすことができますか。
+つぎのすいようびにのばすことができますか。
+tsuginosuiyoubininobasukotogadekimasuka
+ 能延期到下星期三吗？
+
+285
+別の日に変更することもできます。
+べつのにちにへんこうすることもできます。
+betsunonichinihenkousurukotomodekimasu
+ 也可以改在其它时间。
+
+286
+私はホテルを探しています。
+わたしはホテルをさがしています。
+watashihahoteruwosagashiteimasu
+ 我正在找旅馆。
+
+287
+このあたりには洋式のホテルはありません。
+このあたりにはようしきのホテルはありません。
+konoatarinihayoushikinohoteruhaarimasen
+ 这一带没有西式旅馆。
+
+288
+日本の旅館があります。
+にっぽんのりょかんがあります。
+nipponnoryokangaarimasu
+ 有日本式旅馆。
+
+289
+部屋を予約したいんですが。
+へやをよやくしたいんですが。
+heyawoyoyakushitaindesuga
+ 我想订个房间。
+
+290
+どんな部屋をご希望なんでしょうか。
+どんなへやをごきぼうなんでしょうか。
+donnaheyawogokibounandeshouka
+ 您想要什么样的房间？
+
+291
+ご予約がされましたか。
+ごよやくがされましたか。
+goyoyakugasaremashitaka
+ 您预订过了吗？
+
+292
+私は先に行って部屋を決めてきます。
+わたしはさきにいってへやをきめてきます。
+watashihasakiniitteheyawokimetekimasu
+ 我先去订一下房间。
+
+293
+王という名前で予約してありますが。
+おうというなまえでよやくしてありますが。
+outoiunamaedeyoyakushitearimasuga
+ 用姓王的名字预订过了。
+
+294
+シングルルームでいいです。
+シングルルームでいいです。
+shingururuumudeiidesu
+ 单人房间就可以了。
+
+295
+ツインルームがほしいです。
+ツインルームがほしいです。
+tsuinruumugahoshiidesu
+ 我想要双人房间。
+
+296
+よいホテルを教えてください。
+よいホテルをおしえてください。
+yoihoteruwooshietekudasai
+ 请给我介绍一家好的旅馆。
+
+297
+五階の南向きの部屋を用意しておきます。
+ごかいのみなみむきのへやをよういしておきます。
+gokainominamimukinoheyawoyouishiteokimasu
+ 准备好了一间五楼朝南的房间。
+
+298
+大変結構です。
+たいへんけっこうです。
+taihenkekkoudesu
+ 那太好了。
+
+299
+部屋代はいくらですか。
+へやだいはいくらですか。
+heyadaihaikuradesuka
+ 房钱多少？
+
+300
+一泊で六千円です。
+いっぱくでろくせんえんです。
+ippakuderokusen'endesu
+ 一晚上6000日元。
+
+301
+何泊のご予定ですか。
+なんぱくのごよていですか。
+nanpakunogoyoteidesuka
+ 您预订了几天？
+
+302
+三泊の予定です。
+さんぱくのよていです。
+sanpakunoyoteidesu
+ 我预订了三天。
+
+303
+お泊りは何日ぐらいの予定でしょうか。
+おとまりはなんにちぐらいのよていでしょうか。
+otomarihanannichigurainoyoteideshouka
+ 你们预计要住多少天？
+
+304
+少なくとも一ヵ月間、もしかすると二ヵ月間になるかもしれません。
+すくなくともいちヵげっかん、もしかするとにヵげっかんになるかもしれません。
+sukunakutomoichikagekkan、moshikasurutonikagekkanninarukamoshiremasen
+至少住一个月，也许要住二个月。
+
+305
+お客様の部屋は５０６号室をお取りしました。
+おきゃくさまのへやは５０６ごうしつをおとりしました。
+okyakusamanoheyaha５０６goushitsuwootorishimashita
+ 给您准备的是506房间。
+
+306
+これがお部屋の鍵です。
+これがおへやのかぎです。
+koregaoheyanokagidesu
+ 这是您房间的钥匙。
+
+307
+これは領収書です。
+これはりょうしゅうしょです。
+koreharyoushuushodesu
+ 这是收据。
+
+308
+チェックアウトの際、決算します。
+チェックアウトのきわ、けっさんします。
+chekkuautonokiwa、kessanshimasu
+ 离开旅馆时结帐。
+
+309
+この用紙にご住所とお名前を書いてください。
+このようしにごじゅうしょとおなまえをかいてください。
+konoyoushinigojuushotoonamaewokaitekudasai
+ 请在这张卡片上写上您的住处和姓名。
+
+310
+どうぞ宿帳にお名前と国籍をご記入ください。
+どうぞやどちょうにおなまえとこくせきをごきにゅうください。
+douzoyadochounionamaetokokusekiwogokinyuukudasai
+ 请在住宿登记本上记上您的姓名和国籍。
+
+311
+お部屋は何号室ですか。
+おへやはなんごうしつですか。
+oheyahanangoushitsudesuka
+ 您是几号房间？
+
+312
+私が案内いたします。
+わたしがあんないいたします。
+watashigaannaiitashimasu
+ 我给您带路。
+
+313
+私はこの部屋の係りです。
+わたしはこのへやのかかりです。
+watashihakonoheyanokakaridesu
+ 我是这个房间的服务员。
+
+314
+ご用は何でもお申し付けます。
+ごようはなんでもおもうしつけます。
+goyouhanandemoomoushitsukemasu
+ 有事请吩咐。
+
+315
+何時にお起こしいたしましょうか。
+なんじにおおこしいたしましょうか。
+nanjiniookoshiitashimashouka
+ 几点钟叫醒您？
+
+316
+何かご希望やご要求がありましたら、ご遠慮なくおっしゃってください。
+なにかごきぼうやごようきゅうがありましたら、ごえんりょなくおっしゃってください。
+nanikagokibouyagoyoukyuugaarimashitara、goenryonakuosshattekudasai
+有什么希望和要求请别客气。
+
+317
+貴重品をお預かりしましょうか。
+きちょうひんをおあずかりしましょうか。
+kichouhinwooazukarishimashouka
+ 有贵重物品要保管吗？
+
+318
+何か洗濯物がございませんか。
+なにかせんたくものがございませんか。
+nanikasentakumonogagozaimasenka
+ 有什么要洗的东西吗？
+
+319
+入ってよろしゅうございますか。
+いっってよろしゅうございますか。
+itsutteyoroshuugozaimasuka
+ 可以进来吗？
+
+320
+何かご用ですか。
+なにかごようですか。
+nanikagoyoudesuka
+ 有什么事吗？
+
+321
+アイスクリームサンデーを部屋に届けてもらえますか。
+アイスクリームサンデーをへやにとどけてもらえますか。
+aisukuriimusandeewoheyanitodoketemoraemasuka
+ 可以送些 冰琪淋到房间吗？
+
+322
+冷蔵庫にある飲み物は無料ですか。
+れいぞうこにあるのみものはむりょうですか。
+reizoukoniarunomimonohamuryoudesuka
+ 冰箱里的饮料是免费的吗？
+
+323
+冷蔵庫の中の飲み物はご利用された分だけ後で精算いたします。
+れいぞうこのなかののみものはごりようされたふんだけあとでせいさんいたします。
+reizoukononakanonomimonohagoriyousaretafundakeatodeseisan'itashimasu
+冰箱里的饮料用了多少以后一起结算。
+
+324
+別になければこれで失礼させていただきます。
+べつになければこれでしつれいさせていただきます。
+betsuninakerebakoredeshitsureisaseteitadakimasu
+ 如果没别的事我就告辞了。
+
+325
+ご勘定でございますか。
+ごかんじょうでございますか。
+gokanjoudegozaimasuka
+ 您结帐吗？
+
+326
+三泊でございましたね。
+さんぱくでございましたね。
+sanpakudegozaimashitane
+ 您住了三天吧？
+
+327
+お部屋の番号を教えてくださいませ。
+おへやのばんごうをおしえてくださいませ。
+oheyanobangouwooshietekudasaimase
+ 请告诉我您的房间号码。
+
+328
+今からおいでになられますか。
+いまからおいでになられますか。
+imakaraoideninararemasuka
+ 您现在就离店吗？
+
+329
+またいらっしゃいませ。
+またいらっしゃいませ。
+matairasshaimase
+ 欢迎您再来。
+
+330
+部屋を借りたいのです。
+へやをかりたいのです。
+heyawokaritainodesu
+ 我想租间房子。
+
+331
+どんなところをお探しですか。
+どんなところをおさがしですか。
+donnatokorowoosagashidesuka
+ 打算找哪儿的房子？
+
+332
+学校に近いところがいいです。
+がっこうにちかいところがいいです。
+gakkounichikaitokorogaiidesu
+ 最好离学校近一些。
+
+333
+どんな部屋がいいですか。
+どんなへやがいいですか。
+donnaheyagaiidesuka
+ 要什么样的房子？
+
+334
+部屋の数はどうですか。
+へやのかずはどうですか。
+heyanokazuhadoudesuka
+ 要几个房间的？
+
+335
+二人住める下宿屋を紹介してください。
+ふたりすめるげしゅくやをしょうかいしてください。
+futarisumerugeshukuyawoshoukaishitekudasai
+ 请介绍能住两个人的出租房。
+
+336
+なるべく安いほうがいいのですが。
+なるべくやすいほうがいいのですが。
+narubekuyasuihougaiinodesuga
+ 要尽量便宜些。
+
+337
+下宿を探しているんです。
+げしゅくをさがしているんです。
+geshukuwosagashiteirundesu
+ 正在找住房。
+
+338
+部屋を探しているんです。
+へやをさがしているんです。
+heyawosagashiteirundesu
+ 正在找房子。
+
+339
+あなたに心当たりはありませんか。
+あなたにこころあたりはありませんか。
+anatanikokoroatarihaarimasenka
+ 你有线索吗？
+
+340
+友達にも聞いてみてあげましょう。
+ともだちにもきいてみてあげましょう。
+tomodachinimokiitemiteagemashou
+ 我帮你问问朋友看。
+
+341
+どのようなお部屋をお探しですか。
+どのようなおへやをおさがしですか。
+donoyounaoheyawoosagashidesuka
+ 您找什么样的房子？
+
+342
+夜も学校へ行って遅くなるので、アパートがいいんです。
+よるもがっこうへいっておそくなるので、アパートがいいんです。
+yorumogakkouheitteosokunarunode、apaatogaiindesu
+晚上也要去学校，回来很晚，最好是公寓。
+
+343
+家賃はいくらですか。
+やちんはいくらですか。
+yachinhaikuradesuka
+ 房租是多少钱？
+
+344
+日本式もいいですか。
+にほんしきもいいですか。
+nihonshikimoiidesuka
+ 日式房子也行吗？
+
+345
+家賃が高いです。
+やちんがたかいです。
+yachingatakaidesu
+ 房租很大贵。
+
+346
+家賃は一ヵ月五万円ですが。
+やちんはいちヵがつごまんえんですが。
+yachinhaichikagatsugoman'endesuga
+ 房租一个月五万日元。
+
+347
+礼金と敷金が一ヵ月分ずつ要ります。
+れいきんとしききんがいちヵがつぶんずついります。
+reikintoshikikingaichikagatsubunzutsuirimasu
+ 要交相当一个月房租的礼金和保证金。
+
+348
+家賃は三万円ぐらいまでにしたいんですが。
+やちんはさんまんえんぐらいまでにしたいんですが。
+yachinhasanman'enguraimadenishitaindesuga
+ 我想租不超过三万日元的房子。
+
+349
+探してみましょう。
+さがしてみましょう。
+sagashitemimashou
+ 找找看吧。
+
+350
+風呂の付いていないところでも結構です。
+ふろのついていないところでもけっこうです。
+furonotsuiteinaitokorodemokekkoudesu
+ 没有洗澡间的房子也行。
+
+351
+場所柄がいい。
+ばしょがらがいい。
+bashogaragaii
+ 地段很好。
+
+352
+台所がもっと広ければ、そこで食べられます。
+だいどころがもっとひろければ、そこでたべられます。
+daidokorogamottohirokereba、sokodetaberaremasu
+厨房再大一点，就可以在那儿吃饭了。
+
+353
+日当たりがいいでしょう。
+ひあたりがいいでしょう。
+hiatarigaiideshou
+ 日照不错吧？。
+
+354
+本当に静かなところですね。
+ほんとうにしずかなところですね。
+hontounishizukanatokorodesune
+ 这里真安静啊。
+
+355
+近くにスーパーがありますか。
+ちかくにスーパーがありますか。
+chikakunisuupaagaarimasuka
+ 附近有超市吗？
+
+356
+買い物に便利ですね。
+かいものにべんりですね。
+kaimononibenridesune
+ 买东西很方便。
+
+357
+銭湯はどの辺にありますか。
+せんとうはどのへんにありますか。
+sentouhadonohenniarimasuka
+ 公共浴室在哪儿？
+
+358
+あの辺です。
+あのへんです。
+anohendesu
+ 在那一带。
+
+359
+歩いて五分間ぐらいです。
+あるいてごふんかんぐらいです。
+aruitegofunkanguraidesu
+ 步行五分钟左右。
+
+360
+私はこの部屋が大変気に入りました。
+わたしはこのへやがたいへんきにいりました。
+watashihakonoheyagataihenkiniirimashita
+ 我很满意这个房间。
+
+361
+引っ越したいと思うんです。
+ひっこしたいとおもうんです。
+hikkoshitaitoomoundesu
+ 我想搬家。
+
+362
+運送屋さんに電話していただけませんか。
+うんそうやさんにでんわしていただけませんか。
+unsouyasannidenwashiteitadakemasenka
+ 请您给搬运公司打个电话好吗？
+
+363
+これが今の住所と新しい住所です。
+これがいまのじゅうしょとあたらしいじゅうしょです。
+koregaimanojuushotoatarashiijuushodesu
+ 这是旧住址和新住址。
+
+364
+荷物はどのぐらいですか。
+にもつはどのぐらいですか。
+nimotsuhadonoguraidesuka
+ 有多少行李？
+
+365
+大きいものはたんすが二つ、食器棚、布団、それにテレビ、冷蔵庫、洗濯機です。
+おおきいものはたんすがふたつ、しょっきだな、ふとん、それにテレビ、れいぞうこ、せんたくきです。
+ookiimonohatansugafutatsu、shokkidana、futon、soreniterebi、reizouko、sentakukidesu
+大件的有衣柜二个、厨柜、被子、还有电视机、冰箱和洗衣机。
+
+356
+買い物に便利ですね。
+かいものにべんりですね。
+kaimononibenridesune
+ 买东西很方便。
+
+367
+後は段ボール箱は十五個ぐらい。
+のちはだんぼーるはこはじゅうごこぐらい。
+nochihadanbooruhakohajuugokogurai
+ 再就是15个左右纸箱。
+
+368
+十五日の朝でいいですね。
+じゅうごにちのあさでいいですね。
+juugonichinoasadeiidesune
+ 15日早晨好吗？
+
+369
+今から電話しましょうか。
+いまからでんわしましょうか。
+imakaradenwashimashouka
+ 现在打电话吗？
+
+370
+どこへ引っ越すつもりですか。
+どこへひっこすつもりですか。
+dokohehikkosutsumoridesuka
+ 你打算搬到哪儿？
+
+371
+幸いいいマンションがありましてね。
+さいわいいいマンションがありましてね。
+saiwaiiimanshongaarimashitene
+ 幸好找了个好的公寓。
+
+372
+とても気に入ってるんです。
+とてもきにいってるんです。
+totemokiniitterundesu
+ 挺满意的。
+
+373
+一度ぜひ遊びに来てください。
+いちどぜひあそびにきてください。
+ichidozehiasobinikitekudasai
+ 请一定过来玩。
+
+374
+それからいくらかかるか聞いていただけませんか。
+それからいくらかかるかきいていただけませんか。
+sorekaraikurakakarukakiiteitadakemasenka
+然后再打听一下要多少钱好吗？
+
+375
+わたし、今度３０６号室に越してきました張と申しますが。
+わたし、こんど３０６ごうしつにこしてきましたはともうしますが。
+watashi、kondo３０６goushitsunikoshitekimashitahatomoushimasuga
+我姓张，是刚搬到306号的。
+
+376
+どうぞ困ったことがあったら、何でもおっしゃってください。
+どうぞこまったことがあったら、なんでもおっしゃってください。
+douzokomattakotogaattara、nandemoosshattekudasai
+ 不管有什么困难尽管跟我说。
+
+377
+私もそろそろ働こうかと思っているんです。
+わたしもそろそろはたらこうかとおもっているんです。
+watashimosorosorohatarakoukatoomotteirundesu
+ 我想开始工作。
+
+378
+アルバイトを探したいのです。
+アルバイトをさがしたいのです。
+arubaitowosagashitainodesu
+ 我想找个临时工作。
+
+379
+仕事を見つければいい。
+しごとをみつければいい。
+shigotowomitsukerebaii
+ 如果能找到工作就好了。
+
+380
+アルバイトを紹介してもらえませんか。
+アルバイトをしょうかいしてもらえませんか。
+arubaitowoshoukaishitemoraemasenka
+ 能给介绍个临时工吗？
+
+381
+どうやって仕事を見つければいいんでしょう。
+どうやってしごとをみつければいいんでしょう。
+douyatteshigotowomitsukerebaiindeshou
+ 怎样找工作好呢？
+
+382
+新聞の求人欄とか職業案内所とかで探すんでしょうね。
+しんぶんのきゅうじんらんとかしょくぎょうあんないじょとかでさがすんでしょうね。
+shinbunnokyuujinrantokashokugyouannaijotokadesagasundeshoune
+可以从报纸的招聘栏或职业介绍所找找看。
+
+383
+面接があるから、よく準備してください。
+めんせつがあるから、よくじゅんびしてください。
+mensetsugaarukara、yokujunbishitekudasai
+ 因为有面试，所以要做好准备。
+
+384
+ご希望の仕事は。
+ごきぼうのしごとは。
+gokibounoshigotoha
+ 您希望做什么工作呢？
+
+385
+別にいけないこともないんですが。
+べつにいけないこともないんですが。
+betsuniikenaikotomonaindesuga
+ 也不是说不行。
+
+386
+言葉のほうは大丈夫でしょうか。
+ことばのほうはだいじょうぶでしょうか。
+kotobanohouhadaijoubudeshouka
+ 语言方面没有问题吧？
+
+387
+新聞でお宅の求人就職の広告を見ましたが。
+しんぶんでおたくのきゅうじんしゅうしょくのこうこくをみましたが。
+shinbundeotakunokyuujinshuushokunokoukokuwomimashitaga
+ 在报纸上看到贵店的招工启事。
+
+388
+私は応募したいのですが。
+わたしはおうぼしたいのですが。
+watashihaouboshitainodesuga
+ 我想来应聘。
+
+389
+そちらの引越しの仕事をやらせていただけませんか。
+そちらのひっこしのしごとをやらせていただけませんか。
+sochiranohikkoshinoshigotowoyaraseteitadakemasenka
+能否让我在您那儿干搬家的工作呢？
+
+390
+明日の十時ごろにうちの事務所へ来てもらえませんか。
+あしたのとときごろにうちのじむしょへきてもらえませんか。
+ashitanototokigoroniuchinojimushohekitemoraemasenka
+ 明天上午10点左右，你能来我们办公室吗？
+
+391
+明日十時にお待ちしています。
+あしたとときにおまちしています。
+ashitatotokiniomachishiteimasu
+ 明天上午10点我等你。
+
+392
+明日待っていますよ。
+あしたまっていますよ。
+ashitamatteimasuyo
+ 明天等你来。
+
+393
+必ず時間とおりに参ります。
+かならずじかんとおりにまいります。
+kanarazujikantoorinimairimasu
+ 我一定按时来。
+
+394
+人事課へお願いします。
+じんじかへおねがいします。
+jinjikaheonegaishimasu
+ 请接人事科。
+
+395
+面接の上、決めます。
+めんせつのうえ、きめます。
+mensetsunoue、kimemasu
+ 根据面试结果决定。
+
+396
+人事課の田中さんにお会いしたいんです。
+じんじかのたなかさんにおあいしたいんです。
+jinjikanotanakasannioaishitaindesu
+ 我想见人事科的田中先生。
+
+397
+履歴書、お持ちですか。
+りれきしょ、おもちですか。
+rirekisho、omochidesuka
+ 你带简历了吗？
+
+398
+時給は千円、食事付き、皆勤賞もあります。
+じきゅうはせんえん、しょくじつきき、かいきんしょうもあります。
+jikyuuhasen'en、shokujitsukiki、kaikinshoumoarimasu
+ 每小时1000日元，管饭，还有全勤奖。
+
+399
+日本語の読み書きはできますか。
+にほんごのよみかきはできますか。
+nihongonoyomikakihadekimasuka
+ 日语读写行吗？
+
+400
+ちょっとできたら、それでいいでしょう。
+ちょっとできたら、それでいいでしょう。
+chottodekitara、soredeiideshou
+ 稍会一点儿就行。
+
+401
+明日の九時に出勤してくれないかね。
+あしたのくじにしゅっきんしてくれないかね。
+ashitanokujinishukkinshitekurenaikane
+
+
+402
+私は松田さんに紹介していただいた張小玉と申します。
+わたしはまつださんにしょうかいしていただいたちょうこだまともうします。
+watashihamatsudasannishoukaishiteitadaitachoukodamatomoushimasu
+我是松本先生介绍来的，叫张小珏。
+
+403
+来年の二月末までなんですけど、働いてみてください。
+らいねんのにがつまつまでなんですけど、はたらいてみてください。
+rainennonigatsumatsumadenandesukedo、hataraitemitekudasai
+请做到明年二月底试试吧。
+
+404
+お約束でございますか。
+おやくそくでございますか。
+oyakusokudegozaimasuka
+ 是事先约好的吗？
+
+405
+工場で働いた経験はありますか。
+こうじょうではたらいたけいけんはありますか。
+koujoudehataraitakeikenhaarimasuka
+ 你有在工厂做的经验吗？
+
+406
+中国では何をしていらっしゃいましたか。
+ちゅうごくではなにをしていらっしゃいましたか。
+chuugokudehananiwoshiteirasshaimashitaka
+ 你在中国做什么工作？
+
+407
+あのう、工場で働いていました。
+あのう、こうじょうではたらいていました。
+anou、koujoudehataraiteimashita
+ 嗯，我在工厂工作。
+
+408
+自転車の部品を作ってました。
+じてんしゃのぶひんをつくってました。
+jitenshanobuhinwotsukuttemashita
+ 生产自行车零件。
+
+409
+私はコックの仕事をやったことがあります。
+わたしはコックのしごとをやったことがあります。
+watashihakokkunoshigotowoyattakotogaarimasu
+ 我做过厨师。
+
+410
+私は大工ができます。
+わたしはだいくができます。
+watashihadaikugadekimasu
+ 我会木工。
+
+411
+先週、電話で連絡いたしました。
+せんしゅう、でんわでれんらくいたしました。
+senshuu、denwaderenrakuitashimashita
+ 上周电话联系过了。
+
+412
+仕事は午後がいいですか。
+しごとはごごがいいですか。
+shigotohagogogaiidesuka
+ 是下午的工件好吗？
+
+413
+お給料のほうは広告のとおりですか。
+おきゅうりょうのほうはこうこくのとおりですか。
+okyuuryounohouhakoukokunotooridesuka
+ 工资跟广告上说的一样吗？
+
+414
+日本の方と同じですね。
+にっぽんのほうとおなじですね。
+nipponnohoutoonajidesune
+ 同日本的工作人员一样吧。
+
+415
+残業できますか。
+ざんぎょうできますか。
+zangyoudekimasuka
+ 能加班吗？
+
+416
+勤務先はどこですか。
+きんむさきはどこですか。
+kinmusakihadokodesuka
+ 工作地点在哪儿？
+
+417
+新しく口座を開きたいんです。
+あたらしくこうざをひらきたいんです。
+atarashikukouzawohirakitaindesu
+ 我想新开个账户。
+
+418
+銀行は何時に開きますか。
+ぎんこうはなんじにひらきますか。
+ginkouhananjinihirakimasuka
+ 银行几点开门？
+
+419
+銀行の案内の人はどの人ですか。
+ぎんこうのあんないのにんはどのにんですか。
+ginkounoannainoninhadononindesuka
+ 银行服务员是哪位？
+
+420
+通帳ができました。
+つうちょうができました。
+tsuuchougadekimashita
+ 存折做好了。
+
+421
+ご印鑑は持っていらっしゃいますか。
+ごいんかんはもっていらっしゃいますか。
+goinkanhamotteirasshaimasuka
+ 您带印章了吗？
+
+422
+ご印鑑お願いします。
+ごいんかんおねがいします。
+goinkan'onegaishimasu
+ 用一下您的印章。
+
+423
+ご入金はおいくらでしょうか。
+ごにゅうきんはおいくらでしょうか。
+gonyuukinhaoikuradeshouka
+ 您存多少钱？
+
+424
+普通預金の利息はいくらですか。
+ふつうよきんのりそくはいくらですか。
+futsuuyokinnorisokuhaikuradesuka
+ 普通存款利息是多少？
+
+425
+利息は年利率１.５パーセントです。
+りそくはねんりりつ１.５パーセントです。
+risokuhanenriritsu１.５paasentodesu
+ 利息是年利百分之1.5。
+
+426
+三万円でお願いします。
+さんまんえんでおねがいします。
+sanman'endeonegaishimasu
+ 存3万日元。
+
+427
+十万円貯金します。
+じゅうまんえんちょきんします。
+juuman'enchokinshimasu
+ 存10万日元。
+
+428
+今通帳を作ります。
+いまつうちょうをつくります。
+imatsuuchouwotsukurimasu
+ 现在就做存折。
+
+429
+預金はいつでも引き出せますか。
+よきんはいつでもひきだせますか。
+yokinhaitsudemohikidasemasuka
+ 存款什么时候都可以取吗？
+
+430
+キャッシュカーとはお使いになりますか。
+キャッシュカーとはおつかいになりますか。
+kyasshukaatohaotsukaininarimasuka
+ 您 用现金卡吗？
+
+431
+お金を下ろす場合、通帳のほか印鑑が必要です。
+おきんをくだろすばあい、つうちょうのほかいんかんがひつようです。
+okinwokudarosubaai、tsuuchounohokainkangahitsuyoudesu
+取钱时，除存折外还需要印章。
+
+432
+こちらに数字を四つ書いていただけませんか。
+こちらにすうじをよつかいていただけませんか。
+kochiranisuujiwoyotsukaiteitadakemasenka
+ 请您在这里填4个数字好吗？
+
+433
+これは暗証番号といいます。
+これはあんしょうばんごうといいます。
+korehaanshoubangoutoiimasu
+ 这是密码。
+
+434
+カードをお使いになるときに必要ですから。
+カードをおつかいになるときにひつようですから。
+kaadowootsukaininarutokinihitsuyoudesukara
+ 您使用现金卡时需要的。
+
+435
+カードは一週間ぐらいでお宅に郵送いたします。
+カードはいっしゅうかんぐらいでおたくにゆうそういたします。
+kaadohaisshuukanguraideotakuniyuusouitashimasu
+现金卡一周左右寄到府上。
+
+436
+お金を下ろしたいんです。
+おきんをくだろしたいんです。
+okinwokudaroshitaindesu
+ 我想取钱。
+
+437
+少しお金を引き出したいのです。
+すこしおきんをひきだしたいのです。
+sukoshiokinwohikidashitainodesu
+ 我想取点儿钱。
+
+438
+通帳を持っていらっしゃいますか。
+つうちょうをもっていらっしゃいますか。
+tsuuchouwomotteirasshaimasuka
+ 带存折了吗？
+
+439
+金額はいかほどですか。
+きんがくはいかほどですか。
+kingakuhaikahododesuka
+ 取多少钱？
+
+440
+お金と通帳でございます。
+おきんとつうちょうでございます。
+okintotsuuchoudegozaimasu
+ 这是您的钱和存折。
+
+441
+お確かめください。
+おたしかめください。
+otashikamekudasai
+ 请数一数。
+
+442
+これは番号札です。
+これはばんごうさつです。
+korehabangousatsudesu
+ 这是号码牌。
+
+443
+機械の使い方を教えていただけませんか。
+きかいのつかいかたをおしえていただけませんか。
+kikainotsukaikatawooshieteitadakemasenka
+ 教我一下机器的用法好吗？
+
+444
+向こうの機械が空いています。
+むこうのきかいがあいています。
+mukounokikaigaaiteimasu
+ 对面那台机子空着。
+
+445
+キャッシュカードと通帳とどれを使ってもいいですか。
+キャッシュカードとつうちょうとどれをつかってもいいですか。
+kyasshukaadototsuuchoutodorewotsukattemoiidesuka
+ 现金卡和存折都可以用吧？
+
+446
+「お引き出し」表示ファンぷを指で押します。
+「おひきだし」ひょうじファンぷをゆびでおします。
+「ohikidashi」hyoujifanpuwoyubideoshimasu
+ 按这个“取钱”指示灯。
+
+447
+「カードをお入れください」という表示が出ました。
+「カードをおいれください」というひょうじがでました。
+「kaadowooirekudasai」toiuhyoujigademashita
+ “ 请插入卡片”指示灯亮了。
+
+448
+暗証番号と金額を押してください。
+あんしょうばんごうときんがくをおしてください。
+anshoubangoutokingakuwooshitekudasai
+ 请按密码和金额。
+
+449
+「三万円」と表示されました。
+「さんまんえん」とひょうじされました。
+「sanman'en」tohyoujisaremashita
+ 显示出“三万日元”字样。
+
+450
+もし数字を押し違えたら、「取り消し」のボタンを押してやり直せば大丈夫です。
+もしすうじをおしちがえたら、「とりけし」のボタンをおしてやりなおせばだいじょうぶです。
+moshisuujiwooshichigaetara、「torikeshi」nobotanwooshiteyarinaosebadaijoubudesu
+如果数字按错了，只要按一下“取消键，再重新按就行了。
+
+451
+「この残高照会」ボタンは。
+「このざんだかしょうかい」ボタンは。
+「konozandakashoukai」botanha
+ 这个余额查询按钮是？
+
+452
+預金の残高を知りたい時、このボタンで紹介します。
+よきんのざんだかをしりたいとき、このボタンでしょうかいします。
+yokinnozandakawoshiritaitoki、konobotandeshoukaishimasu
+想知道存款余额时，用这个按钮介绍。
+
+453
+エクスチェンジ、どこでできますか。
+エクスチェンジ、どこでできますか。
+ekusuchenji、dokodedekimasuka
+ 哪里可以兑换日元
+
+454
+お金を両替したいのです。
+おきんをりょうがえしたいのです。
+okinworyougaeshitainodesu
+ 我想换钱。
+
+455
+ドルを円に替えたいんです。
+ドルをえんにかえたいんです。
+doruwoennikaetaindesu
+ 我想把美元换日元。
+
+456
+今日のレートはいくらですか。
+きょうのレートはいくらですか。
+kyounoreetohaikuradesuka
+ 今天的汇率是多少？
+
+457
+本日の為替レートは八十三円でございます。
+ほんじつのかわせレートははちじゅうさんえんでございます。
+honjitsunokawasereetohahachijuusan'endegozaimasu
+ 今天的汇率是83日元。
+
+458
+一万円が1000元でございます。
+いちまんえんが1000もとでございます。
+ichiman'enga1000motodegozaimasu
+ 一万日元换1000元人民币。
+
+459
+ちょっと下がっていますね。
+ちょっとさがっていますね。
+chottosagatteimasune
+ 有点下降啊。
+
+460
+でも替えておきましょう。
+でもかえておきましょう。
+demokaeteokimashou
+ 不过，先换吧。
+
+461
+300ドルだけを円に変えてください。
+300ドルだけをえんにかえてください。
+300dorudakewoennikaetekudasai
+ 只换300美元的日元。
+
+462
+外国為替窓口5番へおいでください。
+がいこくかわせまどぐち5つがへおいでください。
+gaikokukawasemadoguchi5tsugaheoidekudasai
+ 请到兑换外币的5号窗口。
+
+463
+お金を送りたいんです。
+おきんをおくりたいんです。
+okinwookuritaindesu
+ 我想寄钱。
+
+464
+口座にお振込みですか。
+こうざにおふりこみですか。
+kouzaniofurikomidesuka
+ 是往对主户头转帐吗？
+
+465
+ここに送りなきゃならないんです。
+ここにおくりなきゃならないんです。
+kokoniokurinakyanaranaindesu
+ 需要往这地方寄。
+
+466
+ちょっと伺います。
+ちょっとうかがいます。
+chottoukagaimasu
+ 我打听一下。
+
+467
+東京駅はどう行けばいいのですか。
+とうきょうえきはどういけばいいのですか。
+toukyouekihadouikebaiinodesuka
+ 去东京车站怎么走？
+
+468
+ここからタクシーで行けます。
+ここからタクシーでいけます。
+kokokaratakushiideikemasu
+ 从这儿可以坐出租车去。
+
+469
+そこへ行くには、タクシーしかありませんか。
+そこへいくには、タクシーしかありませんか。
+sokoheikuniha、takushiishikaarimasenka
+ 去那里只有出租车吗？
+
+470
+地下鉄だとそこまでどのぐらいかかりますか。
+ちかてつだとそこまでどのぐらいかかりますか。
+chikatetsudatosokomadedonoguraikakarimasuka
+如果坐地铁，到那里要多少时间？
+
+471
+何分間ぐらいかかりますか。
+なんぷんかんぐらいかかりますか。
+nanpunkanguraikakarimasuka
+ 要花几分钟？
+
+472
+タクシーで20分ぐらいあります。
+タクシーで20ふんぐらいあります。
+takushiide20funguraiarimasu
+ 坐出租车20分钟左右。
+
+473
+バスもあれば、地下鉄もあります。
+バスもあれば、ちかてつもあります。
+basumoareba、chikatetsumoarimasu
+ 有公共汽车，也有地铁。
+
+474
+バスはどこで乗りますか。
+バスはどこでのりますか。
+basuhadokodenorimasuka
+ 在哪儿乘公共汽车？
+
+475
+バスはあそこのステーションで乗ります。
+バスはあそこのステーションでのります。
+basuhaasokonosuteeshondenorimasu
+ 公共汽车有那个站乘。
+
+476
+ちょっと遠いですね。
+ちょっととおいですね。
+chottotooidesune
+ 有点儿远啊。
+
+477
+地下鉄の駅はもっと遠いろころにあります。
+ちかてつのえきはもっととおいろころにあります。
+chikatetsunoekihamottotooirokoroniarimasu
+ 地铁站更远。
+
+478
+タクシーはどこですか。
+タクシーはどこですか。
+takushiihadokodesuka
+ 出租车在哪儿？
+
+479
+手を上げれば止まります。
+てをあげればどまります。
+tewoagerebadomarimasu
+ 一举手就停车。
+
+480
+ここでタクシーを拾えますか。
+ここでタクシーをひろえますか。
+kokodetakushiiwohiroemasuka
+ 在这能叫出租车吗？
+
+481
+東京駅へ行きたいんです。
+とうきょうえきへいきたいんです。
+toukyouekiheikitaindesu
+ 我想到东京站去。
+
+482
+東京駅のどちらですか。
+とうきょうえきのどちらですか。
+toukyouekinodochiradesuka
+ 东京站在哪儿？
+
+483
+丸の内側までお願いします。
+まるのうちがわまでおねがいします。
+marunouchigawamadeonegaishimasu
+ 请到丸之内那边。
+
+484
+駅まで何キロありますか。
+えきまでなにキロありますか。
+ekimadenanikiroarimasuka
+ 到车站有多少公里？
+
+485
+約20キロあります。
+やく20キロあります。
+yaku20kiroarimasu
+ 大约20公里。
+
+486
+もう東京駅に着きました。
+もうとうきょうえきにつきました。
+moutoukyouekinitsukimashita
+工 已经到东京站了。
+
+487
+こちらで降りてください。
+こちらでおりてください。
+kochiradeoritekudasai
+ 请在这里下车。
+
+488
+地下鉄でいけますか。
+ちかてつでいけますか。
+chikatetsudeikemasuka
+ 可以坐地铁去吗？
+
+489
+大手町へ行くには、どの電車に乗るのですか。
+おおてまちへいくには、どのでんしゃにのるのですか。
+ootemachiheikuniha、donodenshaninorunodesuka
+ 到大手街乘哪路电车？
+
+490
+ここから丸の内線の東京駅行き方面の上りの電車に乗ってください。
+ここからまるのうちせんのとうきょうえきいきかためんののぼりのでんしゃにのってください。
+kokokaramarunouchisennotoukyouekiikikatamennonoborinodenshaninottekudasai
+从这里乘坐丸之内线开往东京站的上行列车。
+
+491
+切符はどこで買いますか。
+きっぷはどこでかいますか。
+kippuhadokodekaimasuka
+ 车票在哪儿买？
+
+492
+切符はあそこの自動販売売り場で買ってください。
+きっぷはあそこのじどうはんばいうりばでかってください。
+kippuhaasokonojidouhanbaiuribadekattekudasai
+ 车票请在那儿自动售票处买。
+
+493
+改札口はこちらです。
+かいさつぐちはこちらです。
+kaisatsuguchihakochiradesu
+ 检票口在这儿。
+
+494
+そこに着いたら教えていただけませんか。
+そこについたらおしえていただけませんか。
+sokonitsuitaraoshieteitadakemasenka
+ 到了那儿请告诉我一下好吗？
+
+495
+いくつ目の停留所で降りますか。
+いくつめのていりゅうしょでおりますか。
+ikutsumenoteiryuushodeorimasuka
+ 在第几站下车？
+
+496
+三つ目の停留所で降りてください。
+みつめのていりゅうしょでおりてください。
+mitsumenoteiryuushodeoritekudasai
+ 请在第三个站下车。
+
+497
+歩いて何分間かかりますか。
+あるいてなんぷんかんかかりますか。
+aruitenanpunkankakarimasuka
+ 步行要几分钟？
+
+498
+どれほど歩かなければなりませんか。
+どれほどあるかなければなりませんか。
+dorehodoarukanakerebanarimasenka
+ 要走多远？
+
+499
+ここから遠くありません。
+ここからとおくありません。
+kokokaratookuarimasen
+ 离这儿不远。
+
+500
+大字町450番地はどこですか。
+おおあざまち450ばんちはどこですか。
+ooazamachi450banchihadokodesuka
+ 大字町150号在那里？
+
+501
+ドアは隔てたその隣です。
+ドアはへだてたそのとなりです。
+doahahedatetasonotonaridesu
+ 隔一个门就是。
+
+502
+道の向こう側です。
+みちのむこうがわです。
+michinomukougawadesu
+ 在马路对过。
+
+503
+西に曲がるとすぐです。
+にしにまがるとすぐです。
+nishinimagarutosugudesu
+ 向西一拐就是。
+
+504
+まっすぐ行きなさい。
+まっすぐいきなさい。
+massuguikinasai
+ 请一直走。
+
+505
+左に曲がるとすぐ見えます。
+ひだりにまがるとすぐみえます。
+hidarinimagarutosugumiemasu
+ 向左一拐就看见了。
+
+506
+北のほうへ行きなさい。
+きたのほうへいきなさい。
+kitanohouheikinasai
+ 请往北走。
+
+507
+二回ほど乗り換えます。
+にかいほどのりかえます。
+nikaihodonorikaemasu
+ 换二次车。
+
+508
+お顔色が悪いようですな。
+おかおいろがわるいようですな。
+okaoirogawaruiyoudesuna
+ 你脸色不好看啊。
+
+509
+どこか具合が悪いんじゃありませんか。
+どこかぐあいがわるいんじゃありませんか。
+dokokaguaigawaruinjaarimasenka
+ 是不是哪儿不舒服？
+
+510
+どこが悪いんですか。
+どこがわるいんですか。
+dokogawaruindesuka
+ 哪儿不舒服？
+
+511
+どうかしましたか。
+どうかしましたか。
+doukashimashitaka
+ 怎么啦？
+
+512
+ちょっと体の具合が悪いのです。
+ちょっとからだのぐあいがわるいのです。
+chottokaradanoguaigawaruinodesu
+ 身体有点不舒服。
+
+513
+お医者さんを呼びましょうか。
+おいしゃさんをよびましょうか。
+oishasanwoyobimashouka
+ 请医生来看看吧？
+
+514
+熱はありませんか。
+ねつはありませんか。
+netsuhaarimasenka
+ 发烧吗？
+
+515
+熱はないですか。
+ねつはないですか。
+netsuhanaidesuka
+ 不发烧吗？
+
+516
+いくらか熱があるようです。
+いくらかねつがあるようです。
+ikurakanetsugaaruyoudesu
+ 好象有点发热。
+
+517
+寒いけがします。
+さむいけがします。
+samuikegashimasu
+ 浑身发冷。
+
+518
+風邪を引きました。
+かぜをひきました。
+kazewohikimashita
+ 感冒了。
+
+819
+ご親切にどうも。
+ごしんせつにどうも。
+goshinsetsunidoumo
+ 谢谢你的好意。
+
+520
+お医者さんに見てもらわないのですか。
+おいしゃさんにみてもらわないのですか。
+oishasannimitemorawanainodesuka
+ 不找医生看看吗？
+
+521
+夕べ飲みすぎたでしょう。
+ゆうべのみすぎたでしょう。
+yuubenomisugitadeshou
+ 民昨晚喝多了吧？
+
+522
+おなかの調子が悪いです。
+おなかのちょうしがわるいです。
+onakanochoushigawaruidesu
+ 肚子不太好。
+
+523
+刺身を食べて、お腹を壊してしまいました。
+さしみをたべて、おはらをこわしてしまいました。
+sashimiwotabete、oharawokowashiteshimaimashita
+ 吃了生鱼片后肚子就不舒服。
+
+524
+内科をお願いします。
+ないかをおねがいします。
+naikawoonegaishimasu
+ 我看内科。
+
+525
+診察券はお持ちですか。
+しんさつけんはおもちですか。
+shinsatsukenhaomochidesuka
+ 拿来挂号证了吗？
+
+526
+それは内科に見てもらいましょう。
+それはないかにみてもらいましょう。
+sorehanaikanimitemoraimashou
+ 那就请看内科吧。
+
+527
+今すぐカルテを作ります。
+いますぐカルテをつくります。
+imasugukarutewotsukurimasu
+ 现在马上写病历。
+
+528
+このカルテをお持ちになって、 内科へ行ってください。
+このカルテをおもちになって、 ないかへいってください。
+konokarutewoomochininatte、 naikaheittekudasai
+请拿着这个病历去内科。
+
+529
+風邪薬をください。
+かぜぐすりをください。
+kazegusuriwokudasai
+ 我买感冒药。
+
+530
+食欲はどうですか。
+しょくよくはどうですか。
+shokuyokuhadoudesuka
+ 食欲怎么样？
+
+531
+吐き気がありますか。
+はきけがありますか。
+hakikegaarimasuka
+ 有呕吐吗？
+
+532
+朝方はあまりひどくありません。
+あさがたはあまりひどくありません。
+asagatahaamarihidokuarimasen
+ 早晨不怎么厉害。
+
+533
+どうしても吐けません。
+どうしてもはけません。
+doushitemohakemasen
+ 怎么也吐不出来。
+
+534
+どんな症状ですか。
+どんなしょうじょうですか。
+donnashoujoudesuka
+ 有什么症状吗？
+
+535
+咳が出ますか。
+せきがでますか。
+sekigademasuka
+ 咳嗽吗？
+
+536
+診てみましょう。
+みてみましょう。
+mitemimashou
+ 让我看一下。
+
+537
+そこに横になってください。
+そこによこになってください。
+sokoniyokoninattekudasai
+ 请躺在那儿。
+
+538
+口を開けてください。
+くちをひらけてください。
+kuchiwohiraketekudasai
+ 请把嘴张开。
+
+539
+夜中に寝汗が出ますか。
+よなかにねあせがでますか。
+yonakanineasegademasuka
+ 夜间盗汗吗？
+
+540
+以前、胸の病気をされたことがありますか。
+いぜん、むねのびょうきをされたことがありますか。
+izen、munenobyoukiwosaretakotogaarimasuka
+ 以前有过胸部疾病吗？
+
+541
+三、四年前に肺炎をかかったことがありました。
+さん、よねんまえにはいえんをかかったことがありました。
+san、yonenmaenihaienwokakattakotogaarimashita
+ 3、4年前曾患过肺炎。
+
+542
+念のために、レントゲンにかけて見ましょう。
+ねんのために、レントゲンにかけてみましょう。
+nennotameni、rentogennikaketemimashou
+ 慎重起见，透视一下吧。
+
+543
+異常がありません。
+いじょうがありません。
+ijougaarimasen
+ 没有异常。
+
+544
+診察の結果、風邪です。
+しんさつのけっか、かぜです。
+shinsatsunokekka、kazedesu
+ 诊断结果是感冒。
+
+545
+ペニシリンを注射しておきましょう。
+ペニシリンをちゅうしゃしておきましょう。
+penishirinwochuushashiteokimashou
+ 注射青霉素吧。
+
+546
+それからこの薬を飲んで、ゆっくりお休みなさい。
+それからこのくすりをのんで、ゆっくりおやすみなさい。
+sorekarakonokusuriwononde、yukkurioyasuminasai
+ 然后吃了这药，好好休息。
+
+547
+この薬を飲んでみてください。
+このくすりをのんでみてください。
+konokusuriwonondemitekudasai
+ 请吃这种药试试。
+
+548
+一回にどのくらい飲めばいいんでしょう。
+いっかいにどのくらいのめばいいんでしょう。
+ikkainidonokurainomebaiindeshou
+ 一次吃多少？
+
+549
+一日に三回、毎食後に、キャップに一杯でいいです。
+ついたちにさんかい、まいしょくのちに、キャップにいっぱいでいいです。
+tsuitachinisankai、maishokunochini、kyappuniippaideiidesu
+一天三次，每次饭后，吃一瓶盖就行。
+
+550
+すぐ治りますから、ご安心ください。
+すぐなおりますから、ごあんしんください。
+sugunaorimasukara、goanshinkudasai
+ 很快就会好的，请放心。
+
+551
+体がだるく、食欲がありません。
+からだがだるく、しょくよくがありません。
+karadagadaruku、shokuyokugaarimasen
+ 身体疲劳，食欲不振。
+
+552
+ちょっと胃が痛いんです。
+ちょっといがいたいんです。
+chottoigaitaindesu
+ 有点儿胃痛。
+
+553
+胃の手術で入院していることを聞いて、びっくりしました。
+いのしゅじゅつでにゅういんしていることをきいて、びっくりしました。
+inoshujutsudenyuuinshiteirukotowokiite、bikkurishimashita
+听说因胃部手术住院，我吃了一惊。
+
+554
+手術の経過はとても順調です。
+しゅじゅつのけいかはとてもじゅんちょうです。
+shujutsunokeikahatotemojunchoudesu
+ 手术过程顺利吗？
+
+555
+手術されてから何日になりましたか。
+しゅじゅつされてからなんにちになりましたか。
+shujutsusaretekaranannichininarimashitaka
+ 手术后有多少天啦？
+
+556
+あと四五日したら歩いてもよいそうです。
+あとしいつかしたらあるいてもよいそうです。
+atoshiitsukashitaraaruitemoyoisoudesu
+ 听说再过4、5天就能走动了。
+
+557
+ではお大事に。
+ではおだいじに。
+dehaodaijini
+ 请多保重。
+
+558
+何か下痢止めの薬がありますか。
+なにかげりとめのくすりがありますか。
+nanikageritomenokusurigaarimasuka
+ 有什么止泻药吗？
+
+559
+これが漢方薬で、副作用がないのです。
+これがかんぽうやくで、ふくさようがないのです。
+koregakanpouyakude、fukusayouganainodesu
+ 这是中药，没有副作用的。
+
+560
+食前に飲むのですか、食後に飲むのですか。
+しょくぜんにのむのですか、しょくごにのむのですか。
+shokuzenninomunodesuka、shokugoninomunodesuka
+ 饭前服，还是饭后服？
+
+561
+買い物に行きます。
+かいものにいきます。
+kaimononiikimasu
+ 去买东西。
+
+562
+買い物をしたいのです。
+かいものをしたいのです。
+kaimonowoshitainodesu
+ 想买东西。
+
+563
+何がほしいですか。
+なにがほしいですか。
+nanigahoshiidesuka
+ 你要什么？
+
+564
+何をお求めですか。
+なにをおもとめですか。
+naniwoomotomedesuka
+ 你要什么？
+
+565
+何にしましょう。
+なににしましょう。
+naninishimashou
+ 要买什么？
+
+566
+何を差し上げましょうか。
+なにをさしあげましょうか。
+naniwosashiagemashouka
+ 需要什么？
+
+567
+冷やかすだけで買う気はありません。
+ひやかすだけでかうきはありません。
+hiyakasudakedekaukihaarimasen
+ 只问问价，不想买。
+
+568
+これを試着したいんです。
+これをしちゃくしたいんです。
+korewoshichakushitaindesu
+ 我想试穿一下。
+
+569
+サンプルはありますか。
+サンプルはありますか。
+sanpuruhaarimasuka
+ 有样品吗？
+
+570
+どうぞご覧ください。
+どうぞごらんください。
+douzogorankudasai
+ 您请看。
+
+571
+お気に召しますか。
+おきにめしますか。
+okinimeshimasuka
+ 看中了吗？
+
+572
+あのゴム底の靴を見せてください。
+あのゴムそこのくつをみせてください。
+anogomusokonokutsuwomisetekudasai
+ 请让我看一下那双胶底鞋。
+
+573
+はいてみてください。
+はいてみてください。
+haitemitekudasai
+ 请试穿一下。
+
+574
+ちょっと大きすぎます。
+ちょっとおおきすぎます。
+chottoookisugimasu
+ 稍微大了点儿。
+
+575
+少し窮屈ですか。
+すこしきゅうくつですか。
+sukoshikyuukutsudesuka
+ 稍微小点了吧。
+
+576
+この形でもっと大きいのはありませんか。
+このかたちでもっとおおきいのはありませんか。
+konokatachidemottoookiinohaarimasenka
+ 这种样式再大点的有吗？
+
+577
+少しゆったりすぎると思います。
+すこしゆったりすぎるとおもいます。
+sukoshiyuttarisugirutoomoimasu
+ 稍稍大了点儿。
+
+578
+ちょうど合います。
+ちょうどあいます。
+choudoaimasu
+ 正合适。
+
+579
+一足もらいましょう。
+いっそくもらいましょう。
+issokumoraimashou
+ 买一双吧。
+
+580
+少し小さめのはありませんか。
+すこしちいさめのはありませんか。
+sukoshichiisamenohaarimasenka
+ 有没有再小一点的？
+
+581
+いい日中辞典がほしいです。
+いいにっちゅうじてんがほしいです。
+iinitchuujitengahoshiidesu
+ 我想买本好一点的日汉辞典。
+
+582
+日本語の文学関係の本はどちらにありますか。
+にほんごのぶんがくかんけいのほんはどちらにありますか。
+nihongonobungakukankeinohonhadochiraniarimasuka
+ 日语文学方面的书在哪儿？
+
+583
+辞書のコーナーはどこですか。
+じしょのコーナーはどこですか。
+jishonokoonaahadokodesuka
+ 辞典专柜在哪儿？
+
+584
+そちらの棚にあります。
+そちらのたなにあります。
+sochiranotananiarimasu
+ 在那边的架子上。
+
+585
+最近出版したのを紹介してくれませんか。
+さいきんしゅっぱんしたのをしょうかいしてくれませんか。
+saikinshuppanshitanowoshoukaishitekuremasenka
+ 能介绍一下最近出版的书吗？
+
+586
+これは出たばかりのです。
+これはでたばかりのです。
+korehadetabakarinodesu
+ 这是刚出版的。
+
+587
+これはセットになっています。
+これはセットになっています。
+korehasettoninatteimasu
+ 这是成套的。
+
+588
+上、中、下三冊になっています。
+うえ、なか、したさんさつになっています。
+ue、naka、shitasansatsuninatteimasu
+ 上、中、下三册一套。
+
+589
+これはなんと言う雑誌ですか。
+これはなんというざっしですか。
+korehanantoiuzasshidesuka
+ 这是什么杂志？
+
+590
+これは日本語のジャーナルという雑誌です。
+これはにほんごのジャーナルというざっしです。
+korehanihongonojaanarutoiuzasshidesu
+ 这叫日语杂志。
+
+591
+お客様に推薦します。
+おきゃくさまにすいせんします。
+okyakusamanisuisenshimasu
+ 我向您推荐一下。
+
+592
+私にはちょっと難しすぎです。
+わたしにはちょっとむずかしすぎです。
+watashinihachottomuzukashisugidesu
+ 对我来说有点太难了。
+
+593
+これは学生向きの本です。
+これはがくせいむききのほんです。
+korehagakuseimukikinohondesu
+ 这是面向学生的书。
+
+594
+とても読みやすいと思います。
+とてもよみやすいとおもいます。
+totemoyomiyasuitoomoimasu
+ 我看非常容易读懂。
+
+595
+これは絶版物です。
+これはぜっぱんものです。
+korehazeppanmonodesu
+ 这是绝版书。
+
+596
+これは口語体で書いてあります。
+これはこうごたいでかいてあります。
+korehakougotaidekaitearimasu
+ 这是用口语体写的。
+
+597
+とても人気があるそうです。
+とてもにんきがあるそうです。
+totemoninkigaarusoudesu
+ 听说很受欢迎。
+
+598
+なかなか評判がいいです。
+なかなかひょうばんがいいです。
+nakanakahyoubangaiidesu
+ 很受欢迎。
+
+599
+他の本はいかがですか。
+ほかのほんはいかがですか。
+hokanohonhaikagadesuka
+ 其它书怎么样？
+
+600
+今日はもう結構です。
+こんにちはもうけっこうです。
+konnichihamoukekkoudesu
+ 今天就买这些了。
+
+601
+一緒に包んでください。
+いっしょにつつんでください。
+isshonitsutsundekudasai
+ 请包在一起。
+
+602
+１００００円お渡しします。
+１００００まるおわたしします。
+１００００maruowatashishimasu
+ 给你10000日元。
+
+603
+６４００円のおつりです。
+６４００えんのおつりです。
+６４００ennootsuridesu
+ 找您6400日元。
+
+604
+割引できますか。
+わりびきできますか。
+waribikidekimasuka
+ 能便宜些吗？
+
+605
+これらはバーゲンセールです。
+これらはバーゲンセールです。
+korerahabaagenseerudesu
+ 这些都降价销售的。
+
+606
+少し負けてくれませんか。
+すこしまけてくれませんか。
+sukoshimaketekuremasenka
+ 可以便宜点吗？
+
+607
+三割引にしましょう。
+さんわりびきにしましょう。
+sanwaribikinishimashou
+ 减价30%吧。
+
+608
+七掛けにしましょう。
+しちかけにしましょう。
+shichikakenishimashou
+ 打七折吧。
+
+609
+いいにはいいのですが。
+いいにはいいのですが。
+iinihaiinodesuga
+ 好是好，但是。
+
+610
+元値の2割引でいかがでしょうか。
+もとねの2わりびきでいかがでしょうか。
+motoneno2waribikideikagadeshouka
+ 比原价便宜20%怎么样？
+
+611
+これ以上値引きできません。
+これいじょうねびきできません。
+koreijounebikidekimasen
+ 不能再便宜了。
+
+612
+ローンでもいいですか。
+ローンでもいいですか。
+roondemoiidesuka
+ 可以赊账吗？
+
+613
+いくつ要りますか。
+いくついりますか。
+ikutsuirimasuka
+ 要多少钱？
+
+614
+売り切れましたか。
+うりきれましたか。
+urikiremashitaka
+ 卖完了吗？
+
+615
+露店にはあります。
+ろてんにはあります。
+rotennihaarimasu
+ 摊子上有。
+
+616
+安ければ安いほどいい。
+やすければやすいほどいい。
+yasukerebayasuihodoii
+ 越便宜越好。
+
+617
+値段は高いですか。
+ねだんはたかいですか。
+nedanhatakaidesuka
+ 价钱贵吗？
+
+618
+これは最新型のカラーテレビです。
+これはさいしんがたのカラーテレビです。
+korehasaishingatanokaraaterebidesu
+ 这是最新式的彩电。
+
+619
+ご予算はどのくらいですか。
+ごよさんはどのくらいですか。
+goyosanhadonokuraidesuka
+ 你打算买多少钱的？
+
+620
+八万円ぐらいのがほしいんです。
+はちまんえんぐらいのがほしいんです。
+hachiman'engurainogahoshiindesu
+ 想买八万日元左右的。
+
+621
+どこか悪ければ、取り替えることもできますか。
+どこかわるければ、とりかえることもできますか。
+dokokawarukereba、torikaerukotomodekimasuka
+ 如果发现哪儿有问题可以换吗？
+
+622
+うちへ届けてもらえませんか。
+うちへとどけてもらえませんか。
+uchihetodoketemoraemasenka
+ 能不能送到家里来？
+
+623
+豚の細切れ、５００グラムください。
+ぶたのこまぎれ、５００グラムください。
+butanokomagire、５００guramukudasai
+ 我要500克猪肉块。
+
+624
+豚の腿肉を３００グラムください。
+ぶたのももにくを３００グラムください。
+butanomomonikuwo３００guramukudasai
+ 我要300克猪腿肉。
+
+625
+少し多いけどいいですか。
+すこしおおいけどいいですか。
+sukoshiooikedoiidesuka
+ 稍多了点，可以吗？
+
+626
+５００グラム５００円と書いてあります。
+５００グラム５００えんとかいてあります。
+５００guramu５００entokaitearimasu
+ 写着500克500日元。
+
+627
+りんごを六つください。
+りんごをむっつください。
+ringowomuttsukudasai
+ 我要6个苹果。
+
+628
+六つで六百円です。
+むっつでろくひゃくえんです。
+muttsuderokuhyakuendesu
+ 6个600日元。
+
+629
+ちょっとこれを見せてください。
+ちょっとこれをみせてください。
+chottokorewomisetekudasai
+ 请给我看看这个。
+
+630
+鶏の手羽先はありますか。
+にわとりのてばさきはありますか。
+niwatorinotebasakihaarimasuka
+ 有鸡翅吗？
+
+631
+その馬を見せてください。
+そのうまをみせてください。
+sonoumawomisetekudasai
+ 把那个马给我看一下。
+
+632
+赤い色が馬の毛にそっくりですね。
+あかいしょくがうまのけにそっくりですね。
+akaishokugaumanokenisokkuridesune
+ 这颜色和马毛色一模一样。
+
+633
+その棚にある仏像をちょっと見せてもらえませんか。
+そのたなにあるぶつぞうをちょっとみせてもらえませんか。
+sonotananiarubutsuzouwochottomisetemoraemasenka
+ 请把那架子上的佛像给我看一下。
+
+634
+目方が足りますか。
+めかたがたりますか。
+mekatagatarimasuka
+ 分量足吗？
+
+635
+適当に買ってください。
+てきとうにかってください。
+tekitounikattekudasai
+ 看着买吧。
+
+636
+あまり高くないです。
+あまりたかくないです。
+amaritakakunaidesu
+ 不太贵。
+
+637
+やっと買えたものです。
+やっとかえたものです。
+yattokaetamonodesu
+ 好容易才买到的东西。
+
+638
+お気に入りますか。
+おきにいりますか。
+okiniirimasuka
+ 您中意吗？
+
+639
+お客様がお使いになるのですか。
+おきゃくさまがおつかいになるのですか。
+okyakusamagaotsukaininarunodesuka
+ 是您自己用的吗？
+
+640
+贈り物になさいますか。
+おくりものになさいますか。
+okurimononinasaimasuka
+ 是做礼品的吗？
+
+641
+箱に詰めてくれませんか。
+はこにつめてくれませんか。
+hakonitsumetekuremasenka
+ 请用盒子装一下。
+
+642
+特色は何ですか。
+とくしょくはなんですか。
+tokushokuhanandesuka
+ 有什么特点？
+
+643
+これと同じです。
+これとおなじです。
+koretoonajidesu
+ 跟这个一样。
+
+644
+比べて御覧なさい。
+くらべてごらんなさい。
+kurabetegorannasai
+ 请比比看。
+
+645
+それよりよくないかも知れません。
+それよりよくないかもしれません。
+soreyoriyokunaikamoshiremasen
+ 不见得比那个好。
+
+646
+似たりよったりです。
+にたりよったりです。
+nitariyottaridesu
+ 差不多。
+
+647
+どちらがお好きですか。
+どちらがおすきですか。
+dochiragaosukidesuka
+ 喜欢哪个呢？
+
+648
+どれにしましょうか。
+どれにしましょうか。
+dorenishimashouka
+ 要哪一个呢？
+
+649
+ちょっと迷ってしまいますね。
+ちょっとまよってしまいますね。
+chottomayotteshimaimasune
+ 真有点拿不定主意。
+
+650
+文房具はどちらで買えますか。
+ぶんぼうぐはどちらでかえますか。
+bunbouguhadochiradekaemasuka
+ 在哪儿可买文具？
+
+651
+二階で売っています。
+にかいでうっています。
+nikaideutteimasu
+ 二楼有卖。
+
+652
+長さは三尺三寸、幅は二尺七寸です。
+ながさはさんじゃくさんずん、はばはにしゃくしちすんです。
+nagasahasanjakusanzun、habahanishakushichisundesu
+ 长3尺3寸，宽2尺7寸。
+
+653
+既製品はありますか。
+きせいひんはありますか。
+kiseihinhaarimasuka
+ 有现成的吗？
+
+654
+一枚余分に買いなさい。
+いちまいよぶんにかいなさい。
+ichimaiyobunnikainasai
+ 多买一件吧。
+
+655
+立て替えてください。
+たてかえてください。
+tatekaetekudasai
+ 请您给我垫上吧。
+
+656
+髪がずいぶん伸びていますね。
+かみがずいぶんのびていますね。
+kamigazuibunnobiteimasune
+ 头发长得很长啊。
+
+657
+どのように刈りましょうか。
+どのようにかりましょうか。
+donoyounikarimashouka
+ 怎么理？
+
+658
+顔剃りは要りません。
+かおそりはいりません。
+kaosorihairimasen
+ 不用刮脸。
+
+659
+顔を剃りましょうか。
+かおをそりましょうか。
+kaowosorimashouka
+ 刮刮脸吧？
+
+660
+カットだけで結構です。
+カットだけでけっこうです。
+kattodakedekekkoudesu
+ 剪一剪就可以了。
+
+661
+お髭を切りましょうか。
+おひげをきりましょうか。
+ohigewokirimashouka
+ 胡子修一修吧？
+
+662
+どういう風におかりしましょうか。
+どういうかぜにおかりしましょうか。
+douiukazeniokarishimashouka
+ 怎么理呢？
+
+663
+今日はどういたしましょうか。
+こんにちはどういたしましょうか。
+konnichihadouitashimashouka
+ 今天怎么弄呢？
+
+664
+今と同じ形で少し短くしてください。
+いまとおなじかたちですこしみじかくしてください。
+imatoonajikatachidesukoshimijikakushitekudasai
+ 照原样理得稍短一些。
+
+665
+オールバックにしますか、それとも七三にしますか。
+オールバックにしますか、それともしちさんにしますか。
+oorubakkunishimasuka、soretomoshichisannishimasuka
+ 理背头呢，还是理分头？
+
+666
+後ろは短くて、前は少し長く刈ってください。
+うしろはみじかくて、まえはすこしながくかってください。
+ushirohamijikakute、maehasukoshinagakukattekudasai
+ 后面请理得短些，前面稍长一些。
+
+667
+少し長めに刈ってください。
+すこしながめにかってください。
+sukoshinagamenikattekudasai
+ 请理得稍长一些。
+
+668
+耳が出るようにしてください。
+みみがでるようにしてください。
+mimigaderuyounishitekudasai
+ 请剪高一点儿。
+
+669
+耳が出ないようにしてください。
+みみがでないようにしてください。
+mimigadenaiyounishitekudasai
+ 请剪低一点儿。
+
+670
+あまり短くしないでください。
+あまりみじかくしないでください。
+amarimijikakushinaidekudasai
+ 请别剪得太短。
+
+671
+御髪がだいぶかさかさしています。
+おかみがだいぶかさかさしています。
+okamigadaibukasakasashiteimasu
+ 您的头发太涩了。
+
+672
+今日はどうなさいますか。
+こんにちはどうなさいますか。
+konnichihadounasaimasuka
+ 今天您的头发怎么做？
+
+673
+パーマを掛けたいのです。
+パーマをかけたいのです。
+paamawokaketainodesu
+ 我想烫发。
+
+674
+ドライヤーをお願いします。
+ドライヤーをおねがいします。
+doraiyaawoonegaishimasu
+ 请给吹个风。
+
+675
+髪の毛をお染になりますか。
+かみのけをおそめになりますか。
+kaminokewoosomeninarimasuka
+ 您染发吗？
+
+676
+この辺を少し薄くいたしましてよろしゅうございますね。
+このへんをすこしうすくいたしましてよろしゅうございますね。
+konohenwosukoshiusukuitashimashiteyoroshuugozaimasune
+ 这里删薄一点好吗？
+
+677
+黒く染めてください。
+くろくそめてください。
+kurokusometekudasai
+ 请染成黑色。
+
+678
+シャンプーはしてありますか。
+シャンプーはしてありますか。
+shanpuuhashitearimasuka
+ 您洗过头了吗？
+
+679
+お洗いいたしましょう。
+おあらいいたしましょう。
+oaraiitashimashou
+ 洗一洗吧。
+
+680
+シャンプーをお願いします。
+シャンプーをおねがいします。
+shanpuuwoonegaishimasu
+ 请用香波洗头。
+
+681
+ヘアスタイルはどのようにしましょうか。
+ヘアスタイルはどのようにしましょうか。
+heasutairuhadonoyounishimashouka
+ 您要烫什么样的发型？
+
+682
+これと同じようにお願いします。
+これとおなじようにおねがいします。
+koretoonajiyounionegaishimasu
+ 请烫个跟这一样的。
+
+683
+ブローはしませんね。
+ブローはしませんね。
+buroohashimasenne
+ 不要吹风吧？
+
+684
+ブローしないで結構です。
+ブローしないでけっこうです。
+burooshinaidekekkoudesu
+ 不用吹风。
+
+685
+ヘアスタイルはもっとのままでよろしゅうございますね。
+ヘアスタイルはもっとのままでよろしゅうございますね。
+heasutairuhamottonomamadeyoroshuugozaimasune
+ 发型是不是保持原来式样？
+
+686
+メニューを見せてもらえませんか。
+メニューをみせてもらえませんか。
+menyuuwomisetemoraemasenka
+ 请让我看一下菜单。
+
+687
+何人様ですか。
+なんにんさまですか。
+nanninsamadesuka
+ 几位？
+
+688
+お一人様ですか。
+おひとりさまですか。
+ohitorisamadesuka
+ 是一位吗？
+
+689
+何を召し上がりますか。
+なにをめしあがりますか。
+naniwomeshiagarimasuka
+ 您吃点什么？
+
+690
+何にしましょうか。
+なににしましょうか。
+naninishimashouka
+ 吃点什么？
+
+691
+何を注文されますか。
+なにをちゅうもんされますか。
+naniwochuumonsaremasuka
+ 您要点什么？
+
+692
+お飲み物は何になさいますか。
+おのみものはなにになさいますか。
+onomimonohananininasaimasuka
+ 要点什么饮料？
+
+693
+そちらの方へどうぞ。
+そちらのほうへどうぞ。
+sochiranohouhedouzo
+ 请上那儿坐。
+
+694
+お二人様、奥のほうへどうぞ。
+おふたりさま、おくのほうへどうぞ。
+ofutarisama、okunohouhedouzo
+ 二位请到里面坐。
+
+695
+メニューを見せてください。
+メニューをみせてください。
+menyuuwomisetekudasai
+ 请让我看一下菜单。
+
+696
+お決めになりましたか。
+おきめになりましたか。
+okimeninarimashitaka
+ 您决定要点什么吗？
+
+697
+ビール一本、ご飯一つ、刺身一つ、お野菜一皿お願いします。
+ビールいっぽん、ごめしひとつ、さしみひとつ、おやさいひとさらおねがいします。
+biiruippon、gomeshihitotsu、sashimihitotsu、oyasaihitosaraonegaishimasu
+ 我要一瓶啤酒、一 碗米饭、一份生鱼片、一盘蔬菜。
+
+698
+お任せします。
+おまかせします。
+omakaseshimasu
+ 您给点吧。
+
+699
+あまりたくさんいただけないのです。
+あまりたくさんいただけないのです。
+amaritakusan'itadakenainodesu
+ 不要太多。
+
+700
+ビールを二本とグラスを三つお願いします。
+ビールをにほんとグラスをみつおねがいします。
+biiruwonihontogurasuwomitsuonegaishimasu
+ 我要二瓶啤酒三个酒杯。
+
+701
+ツアーに参加したいのです。
+ツアーにさんかしたいのです。
+tsuaanisankashitainodesu
+ 我想参加团体游。
+
+702
+何か面白いところがありませんか。
+なにかおもしろいところがありませんか。
+nanikaomoshiroitokorogaarimasenka
+ 有什么好玩的地方吗？
+
+703
+どんなツアーがありますか。
+どんなツアーがありますか。
+donnatsuaagaarimasuka
+ 有哪些团体游？
+
+704
+どこをご覧になりたいのですか。
+どこをごらんになりたいのですか。
+dokowogoranninaritainodesuka
+ 您想游览哪些地方呢？
+
+705
+富士山に行きたいのです。
+ふじさんにいきたいのです。
+fujisanniikitainodesu
+ 我想到富士山去。
+
+706
+市内の名所を紹介していただけませんか。
+しないのめいしょをしょうかいしていただけませんか。
+shinainomeishowoshoukaishiteitadakemasenka
+ 您能介绍一下市内名胜吗？
+
+707
+待機中です。
+たいきちゅうです。
+taikichuudesu
+ 只等出发了。
+
+708
+いつ出発しますか。
+いつしゅっぱつしますか。
+itsushuppatsushimasuka
+ 什么时候出发？
+
+709
+何時にお出かけですか。
+なんじにおでかけですか。
+nanjiniodekakedesuka
+ 几点钟动身？
+
+710
+いつお帰りになるでしょうか。
+いつおかえりになるでしょうか。
+itsuokaerininarudeshouka
+ 什么时候回来？
+
+711
+一泊して帰るつもりです。
+いっぱくしてかえるつもりです。
+ippakushitekaerutsumoridesu
+ 打算住一宿就回来。
+
+712
+ちょっとお邪魔していいですか。
+ちょっとおじゃましていいですか。
+chottoojamashiteiidesuka
+ 稍微打扰一下行吗？
+
+713
+今日、このツアーはもう満員です。
+きょう、このツアーはもうまんいんです。
+kyou、konotsuaahamouman'indesu
+ 今天这个团已经满员。
+
+714
+予約しなければなりませんか。
+よやくしなければなりませんか。
+yoyakushinakerebanarimasenka
+ 需要预约吗？
+
+715
+準備はできましたか。
+じゅんびはできましたか。
+junbihadekimashitaka
+ 准备好了吗？
+
+716
+富士山は形の美しいことで有名です。
+ふじさんはかたちのうつくしいことでゆうめいです。
+fujisanhakatachinoutsukushiikotodeyuumeidesu
+ 富士山的形状之美是有名的。
+
+717
+一人ではつまらないでしょうか。
+ひとりではつまらないでしょうか。
+hitoridehatsumaranaideshouka
+ 一个人没意思吧？
+
+718
+御伴しましょうか。
+おはんしましょうか。
+ohanshimashouka
+ 我陪你去好吗？
+
+719
+私は一人で旅行するのが好きです。
+わたしはひとりでりょこうするのがすきです。
+watashihahitorideryokousurunogasukidesu
+ 我喜欢一个人旅游。
+
+720
+楽しい旅行をなさるように祈りします。
+たのしいりょこうをなさるようにいのりします。
+tanoshiiryokouwonasaruyouniinorishimasu
+ 祝你旅途愉快。
+
+721
+方々を一回りしたいのです。
+かたがたをひとまわりしたいのです。
+katagatawohitomawarishitainodesu
+ 我想去各地转转。
+
+722
+今度の旅行には私も行きます。
+こんどのりょこうにはわたしもいきます。
+kondonoryokounihawatashimoikimasu
+ 这次旅行我也去。
+
+723
+予定を詳しく教えていただけませんか。
+よていをくわしくおしえていただけませんか。
+yoteiwokuwashikuoshieteitadakemasenka
+ 能把详细日程告诉我吗？
+
+724
+乗り物は何で行くのですか。
+のりものはなんでいくのですか。
+norimonohanandeikunodesuka
+ 交通工具是什么？
+
+725
+どのぐらいの時間がかかりますか。
+どのぐらいのじかんがかかりますか。
+donogurainojikangakakarimasuka
+ 需要多长时间？
+
+726
+ツアーの料金はいくらですか。
+ツアーのりょうきんはいくらですか。
+tsuaanoryoukinhaikuradesuka
+ 跟团旅游的费用是多少？
+
+727
+この料金には何が含まれていますか。
+このりょうきんにはなにがふくまれていますか。
+konoryoukinnihananigafukumareteimasuka
+ 这些费用包括哪些费用？
+
+728
+食事代も入っていますか。
+しょくじだいもいっっていますか。
+shokujidaimoitsutteimasuka
+ 包括伙食费吗？
+
+729
+全部の費用が含まれています。
+ぜんぶのひようがふくまれています。
+zenbunohiyougafukumareteimasu
+ 全部费用都包括在内。
+
+730
+このツアーに自由時間がありますか。
+このツアーにじゆうじかんがありますか。
+konotsuaanijiyuujikangaarimasuka
+ 这个旅行团有自由活动时间吗？
+
+731
+何時の汽車で立ちますか。
+なんじのきしゃでたちますか。
+nanjinokishadetachimasuka
+ 坐几点的火车走？
+
+732
+あと十五分しかないですよ。
+あとじゅうごふんしかないですよ。
+atojuugofunshikanaidesuyo
+ 只有15分钟了。
+
+733
+車を飛ばしたら、間に合いますか。
+くるまをとばしたら、まにあいますか。
+kurumawotobashitara、maniaimasuka
+ 把车开快些赶得上吗？
+
+734
+今すぐ出かければ、間に合うと思います。
+いますぐでかければ、まにあうとおもいます。
+imasugudekakereba、maniautoomoimasu
+ 现在立即出发，我想来得及。
+
+735
+どんなに急いでも、間に合わないでしょう。
+どんなにいそいでも、まにあわないでしょう。
+donnaniisoidemo、maniawanaideshou
+ 无论多么快，恐怕都来不及吧。
+
+736
+空港まで見送りにまいりましょう。
+くうこうまでみおくりにまいりましょう。
+kuukoumademiokurinimairimashou
+ 我送你到机场吧。
+
+737
+誰と一緒に行きますか。
+だれといっしょにいきますか。
+daretoisshoniikimasuka
+ 跟谁一起去？
+
+738
+ガイド付ですか。
+ガイドつきですか。
+gaidotsukidesuka
+ 有导游吗？
+
+739
+中国語のできるガイドがご案内します。
+ちゅうごくごのできるガイドがごあんないします。
+chuugokugonodekirugaidogagoannaishimasu
+ 有会汉语的导游陪同。
+
+740
+いつ東京に戻ってくるのですか。
+いつとうきょうにもどってくるのですか。
+itsutoukyounimodottekurunodesuka
+ 什么时候回到东京？
+
+741
+往復は一週間かかります。
+おうふくはいっしゅうかんかかります。
+oufukuhaisshuukankakarimasu
+ 来回要一个星期。
+
+742
+私はパリへ行くつもりです。
+わたしはパリへいくつもりです。
+watashihapariheikutsumoridesu
+ 我打算到巴黎去。
+
+743
+荷物はそろいましたか。
+にもつはそろいましたか。
+nimotsuhasoroimashitaka
+ 行李都准备好了吗？
+
+744
+すべてそろいました。
+すべてそろいました。
+subetesoroimashita
+ 都准备好了。
+
+745
+京都のみやげ物としてどんな物を買ったらいいですか。
+きょうとのみやげものとしてどんなものをかったらいいですか。
+kyoutonomiyagemonotoshitedonnamonowokattaraiidesuka
+ 作为京都特产，买些什么好呢？
+
+746
+京都の年中行事を何か見たいんです。
+きょうとのねんちゅうぎょうじをなにかみたいんです。
+kyoutononenchuugyoujiwonanikamitaindesu
+ 我想看看京都的传统节日活动。
+
+747
+どんな物が見られますか。
+どんなものがみられますか。
+donnamonogamiraremasuka
+ 能看到哪些东西呢？
+
+748
+八月十六日に「大文字送り火」が見られますよ。
+はちがつじゅうろくにちに「おおもじおくりび」がみられますよ。
+hachigatsujuurokunichini「oomojiokuribi」gamiraremasuyo
+ 八月十六日可以看到“大字篝火”。
+
+749
+また祇園祭?葵祭りがあります。
+またぎおんまつり?あおいまつりがあります。
+matagionmatsuri?aoimatsurigaarimasu
+ 另外还有八坂神社的庙会和贺茂神社的庙会。
+
+750
+ここから長城に登ります。
+ここからちょうじょうにのぼります。
+kokokarachoujouninoborimasu
+ 从这里开始登长城。
+
+751
+十二時までにぜひここに集合するようにお願いいたします。
+じゅうにときまでにぜひここにしゅうごうするようにおねがいいたします。
+juunitokimadenizehikokonishuugousuruyounionegaiitashimasu
+ 请大家务必12点之前来这儿集合。
+
+752
+心が広くなりますね。
+こころがひろくなりますね。
+kokorogahirokunarimasune
+ 真令人心旷神怡。
+
+753
+そこが私たちの目指すところです。
+そこがわたしたちのめざすところです。
+sokogawatashitachinomezasutokorodesu
+ 那里就是我们的目的地。
+
+754
+時間は大丈夫ですから、ゆっくり登りましょう。
+じかんはだいじょうぶですから、ゆっくりのぼりましょう。
+jikanhadaijoubudesukara、yukkurinoborimashou
+ 有的是时间，我们慢慢上吧。
+
+755
+もうすぐ頂上でしょうか。
+もうすぐちょうじょうでしょうか。
+mousuguchoujoudeshouka
+ 快到顶峰了吧？
+
+756
+私たちはやっと半分登っただけです。
+わたしたちはやっとはんぶんのぼっただけです。
+watashitachihayattohanbunnobottadakedesu
+ 我们还只爬到一半。
+
+757
+ちょっと休んだらどう。
+ちょっとやすんだらどう。
+chottoyasundaradou
+ 稍微休息一下吧。
+
+758
+足が痛くてたまらないんです。
+あしがいたくてたまらないんです。
+ashigaitakutetamaranaindesu
+ 脚痛得受不了啦。
+
+759
+元気が出た。
+げんきがでた。
+genkigadeta
+ 有精神了吗？
+
+760
+頂上まで行きましょう。
+ちょうじょうまでいきましょう。
+choujoumadeikimashou
+ 我们一起爬到山顶吧。
+
+761
+この辺で写真を撮るのはかまいませんか。
+このへんでしゃしんをとるのはかまいませんか。
+konohendeshashinwotorunohakamaimasenka
+ 这一带可以拍照吗？
+
+762
+どうぞお撮りください。
+どうぞおとりください。
+douzootorikudasai
+ 你拍吧。
+
+763
+どこを背景にしたらいいでしょうかね。
+どこをはいけいにしたらいいでしょうかね。
+dokowohaikeinishitaraiideshoukane
+ 哪儿做背景好呢？
+
+764
+桜を背景にして、写真を撮りましょう。
+さくらをはいけいにして、しゃしんをとりましょう。
+sakurawohaikeinishite、shashinwotorimashou
+ 以樱花为背景照个相吧。
+
+765
+留学生奨学金はないでしょうか。
+りゅうがくせいしょうがくきんはないでしょうか。
+ryuugakuseishougakukinhanaideshouka
+ 有没有留学生奖学金呢？
+
+766
+大学や大学院に入れば、申請できます。
+だいがくやだいがくいんにいれば、しんせいできます。
+daigakuyadaigakuinniireba、shinseidekimasu
+ 如果考上大学或研究生院就可申请。
+
+767
+日本語学校時代はちょっと無理のようです。
+にほんごがくこうじだいはちょっとむりのようです。
+nihongogakukoujidaihachottomurinoyoudesu
+ 看来在日语学校期间不容易拿到。
+
+768
+留学生活で何かお困りのことはありませんか。
+りゅうがくせいかつでなにかおこまりのことはありませんか。
+ryuugakuseikatsudenanikaokomarinokotohaarimasenka
+ 留学生活中有什么困难吗？
+
+769
+日本の授業料と生活費が高いことです。
+にっぽんのじゅぎょうりょうとせいかつひがたかいことです。
+nipponnojugyouryoutoseikatsuhigatakaikotodesu
+ 日本的学费和生活费太高了。
+
+770
+下宿代だけで４万から５万円かかるでしょう。
+げしゅくだいだけで４まんから５まんえんかかるでしょう。
+geshukudaidakede４mankara５man'enkakarudeshou
+ 光房租费每月就要4万到5万日元。
+
+771
+アルバイトしながらの留学生活は大変ですよ。
+アルバイトしながらのりゅうがくせいかつはたいへんですよ。
+arubaitoshinagaranoryuugakuseikatsuhataihendesuyo
+ 边打工边学习的留学生活很艰苦。
+
+772
+アルバイトしなければ食っていけない。
+アルバイトしなければくっっていけない。
+arubaitoshinakerebakutsutteikenai
+ 不打工就无法维持生活。
+
+773
+学習に余計時間をかけると、留学生活は難しくなります。
+がくしゅうによけいじかんをかけると、りゅうがくせいかつはむずかしくなります。
+gakushuuniyokeijikanwokakeruto、ryuugakuseikatsuhamuzukashikunarimasu
+ 学习上多花时间的话，生活上就会困难。
+
+774
+国からの送金は日本の高消費には間に合いません。
+くにからのそうきんはにっぽんのたかしょうひにはまにあいません。
+kunikaranosoukinhanipponnotakashouhinihamaniaimasen
+ 家里寄来的钱应付不了日本的高消费。
+
+775
+自分で工夫します。
+じぶんでくふうします。
+jibundekufuushimasu
+ 我自己想办法。
+
+776
+これから良い大学に入ろう。
+これからよいだいがくにいろう。
+korekarayoidaigakuniirou
+ 我今后要考上好的大学。
+
+777
+紹介してくださいませんか。
+しょうかいしてくださいませんか。
+shoukaishitekudasaimasenka
+ 您能为我介绍一下吗？
+
+778
+私たちの日本留学協会に各大学の案内書があります。
+わたしたちのにっぽんりゅうがくきょうかいにかくだいがくのあんないしょがあります。
+watashitachinonipponryuugakukyoukainikakudaigakunoannaishogaarimasu
+ 我们日本留学协会有各大学的情况介绍。
+
+779
+自分のの事情に合わして入学先を選んでください。
+じぶんののじじょうにあわしてにゅうがくさきをえらんでください。
+jibunnonojijouniawashitenyuugakusakiwoerandekudasai
+ 结合自己的情况选择学校。
+
+780
+ちょっとこの腕時計を見てください。
+ちょっとこのうでどけいをみてください。
+chottokonoudedokeiwomitekudasai
+ 请看看这块表。
+
+781
+進んだり遅れたりしてどうも不正確です。
+すすんだりおくれたりしてどうもふせいかくです。
+susundariokuretarishitedoumofuseikakudesu
+ 有时快，有时慢，一点儿不准。
+
+782
+一日にどのぐらい違いますか。
+ついたちにどのぐらいちがいますか。
+tsuitachinidonoguraichigaimasuka
+ 一天差多少？
+
+783
+それは決まっていないのです。
+それはきまっていないのです。
+sorehakimatteinainodesu
+ 那没准儿。
+
+784
+今日は十分も進んだと思うと、次の日は二十分も遅れたりします。
+こんにちはじゅうぶんもすすんだとおもうと、つぎのにちはにじゅうふんもおくれたりします。
+konnichihajuubunmosusundatoomouto、tsuginonichihanijuufunmookuretarishimasu
+ 今天快10分，明天又慢20分。
+
+785
+分解掃除をすると良くなります。
+ぶんかいそうじをするとよくなります。
+bunkaisoujiwosurutoyokunarimasu
+ 拆洗一下就会好的。
+
+786
+土曜日においでください。
+どようびにおいでください。
+doyoubinioidekudasai
+ 请星期六来。
+
+787
+もっと速くできますか。
+もっとはやくできますか。
+mottohayakudekimasuka
+ 能再快点吗？
+
+788
+大急ぎで間に合わせましょう。
+おおいそぎでまにあわせましょう。
+ooisogidemaniawasemashou
+ 我抓紧给你赶吧。
+
+789
+ちょっとかぎの調子が悪いんです。
+ちょっとかぎのちょうしがわるいんです。
+chottokaginochoushigawaruindesu
+ 锁有点不好用。
+
+790
+見てくださいませんか。
+みてくださいませんか。
+mitekudasaimasenka
+ 给看看好吗？
+
+791
+取り替えたほうがいいですね。
+とりかえたほうがいいですね。
+torikaetahougaiidesune
+ 该换一把新的了。
+
+792
+夕方までにはできますよ。
+ゆうがたまでにはできますよ。
+yuugatamadenihadekimasuyo
+ 傍晚之前可以修好。
+
+793
+五時ごろ取りに来ます。
+ごじごろとりにきます。
+gojigorotorinikimasu
+ 5点前后来取。
+
+794
+鍵、できていますか。
+かぎ、できていますか。
+kagi、dekiteimasuka
+ 锁换好了吗？
+
+795
+このボタンをを押しながら、鍵を入れてください。
+このボタンををおしながら、かぎをいれてください。
+konobotanwowooshinagara、kagiwoiretekudasai
+ 请按着这个按钮上锁。
+
+796
+ちょっとやってみましょう。
+ちょっとやってみましょう。
+chottoyattemimashou
+ 让我试一下。
+
+797
+テープレコーダーが故障したらしい。
+テープレコーダーがこしょうしたらしい。
+teepurekoodaagakoshoushitarashii
+ 录音机好象出了毛病。
+
+798
+修理、お願いしたいんです。
+しゅうり、おねがいしたいんです。
+shuuri、onegaishitaindesu
+ 请给修理一下。
+
+799
+来週の木曜日に取りに来てください。
+らいしゅうのもくようびにとりにきてください。
+raishuunomokuyoubinitorinikitekudasai
+ 下星期四来取。
+
+800
+あなたは日本語を自分で勉強しているそうですね。
+あなたはにほんごをじぶんでべんきょうしているそうですね。
+anatahanihongowojibundebenkyoushiteirusoudesune
+ 听说你在自学日语。
+
+801
+日本語の文法は難しいでしょうか。
+にほんごのぶんぽうはむずかしいでしょうか。
+nihongonobunpouhamuzukashiideshouka
+ 日语的语法很难吧？
+
+802
+あまり難しくはありません。
+あまりむずかしくはありません。
+amarimuzukashikuhaarimasen
+ 不太难。
+
+803
+一生懸命勉強しさえすれば、別に難しくはありません。
+いっしょうけんめいべんきょうしさえすれば、べつにむずかしくはありません。
+isshoukenmeibenkyoushisaesureba、betsunimuzukashikuhaarimasen
+ 只要努力学习，没什么特别难的。
+
+804
+私の発音は正しいですか。
+わたしのはつおんはただしいですか。
+watashinohatsuonhatadashiidesuka
+ 我的发音准确吗？
+
+805
+今、日本語学校で一生懸命日本語を勉強しております。
+いま、にほんごがくこうでいっしょうけんめいにほんごをべんきょうしております。
+ima、nihongogakukoudeisshoukenmeinihongowobenkyoushiteorimasu
+ 我现在在日语学校努力学习日语。
+
+806
+道理で、王さんの日本語は最近上手になりましたね。
+どうりで、おうさんのにほんごはさいきんじょうずになりましたね。
+douride、ousannonihongohasaikinjouzuninarimashitane
+ 难怪小王的日语最近进步很快。
+
+807
+褒めすぎです。
+ほめすぎです。
+homesugidesu
+ 您过奖了。
+
+808
+先生の話が十分に聞き取れません。
+せんせいのはなしがじゅうぶんにききとれません。
+senseinohanashigajuubunnikikitoremasen
+ 老师的话还不能完全听懂。
+
+809
+友達と自由自在に日本語で会話することができません。
+ともだちとじゆうじざいににほんごでかいわすることができません。
+tomodachitojiyuujizaininihongodekaiwasurukotogadekimasen
+ 不能自由自在地用日语和朋友交谈。
+
+810
+心配することはありませんよ。
+しんぱいすることはありませんよ。
+shinpaisurukotohaarimasenyo
+ 您不用担心。
+
+811
+毎日、日本語を使っているうちに上手になると思います。
+まいにち、にほんごをつかっているうちにじょうずになるとおもいます。
+mainichi、nihongowotsukatteiruuchinijouzuninarutoomoimasu
+ 我想，每天用日语就会进步。
+
+812
+学校で習ったものを常に応用し、使ってください。
+がっこうでならったものをつねにおうようし、つかってください。
+gakkoudenarattamonowotsuneniouyoushi、tsukattekudasai
+ 请把在学校学到的常讲常用。
+
+813
+いろいろ教えていただいてありがとうございます。
+いろいろおしえていただいてありがとうございます。
+iroirooshieteitadaitearigatougozaimasu
+ 谢谢您的多方面教导。
+
+814
+あなたは日本語ができますか。
+あなたはにほんごができますか。
+anatahanihongogadekimasuka
+ 你会日语吗？
+
+815
+私は日本語が少しできます。
+わたしはにほんごがすこしできます。
+watashihanihongogasukoshidekimasu
+ 我会一点儿日语。
+
+816
+あなたは英語が話せますか。
+あなたはえいごがはなせますか。
+anatahaeigogahanasemasuka
+ 你会讲英语吗？
+
+817
+少し話せますが、下手です。
+すこしはなせますが、へたです。
+sukoshihanasemasuga、hetadesu
+ 会讲一点，但讲得不好。
+
+818
+読むだけで、話すことができません。
+よむだけで、はなすことができません。
+yomudakede、hanasukotogadekimasen
+ 只会看，不会讲。
+
+819
+テレビの講座について勉強しています。
+テレビのこうざについてべんきょうしています。
+terebinokouzanitsuitebenkyoushiteimasu
+ 正跟电视讲座学习。
+
+820
+あなたは日本語を学び初めから、何年になりましたか。
+あなたはにほんごをまなびはじめから、なんねんになりましたか。
+anatahanihongowomanabihajimekara、nannenninarimashitaka
+ 你学日语几年了。
+
+821
+足かけ三年になります。
+あしかけさんねんになります。
+ashikakesannenninarimasu
+ 快三年了。
+
+822
+なかなかお上手ですね。
+なかなかおじょうずですね。
+nakanakaojouzudesune
+ 您说得真棒。
+
+823
+まだまだですよ。
+まだまだですよ。
+madamadadesuyo
+ 还差得很远。
+
+824
+唇を丸くし、少し突き出すような気持ちで発音します。
+くちびるをまるくし、すこしつきだすようなきもちではつおんします。
+kuchibiruwomarukushi、sukoshitsukidasuyounakimochidehatsuonshimasu
+ 把嘴唇收园，稍微突出来发音。
+
+825
+ごみはどうするんですか。
+ごみはどうするんですか。
+gomihadousurundesuka
+ 垃圾怎么办？
+
+826
+ごみの出し方を教えていただきたいんです。
+ごみのだしかたをおしえていただきたいんです。
+gominodashikatawooshieteitadakitaindesu
+ 想向您求教垃圾处理方法。
+
+827
+燃えないごみは別にしたほうがいいわね。
+もえないごみはべつにしたほうがいいわね。
+moenaigomihabetsunishitahougaiiwane
+ 不可燃垃圾最好分别放置。
+
+828
+燃えるごみというと。
+もえるごみというと。
+moerugomitoiuto
+ 可燃垃圾是什么？
+
+829
+燃えないごみは。
+もえないごみは。
+moenaigomiha
+ 不可燃垃圾是什么呢？
+
+830
+燃えるごみは食べ物の残りかすや紙などです。
+もえるごみはたべものののこりかすやかみなどです。
+moerugomihatabemonononokorikasuyakaminadodesu
+ 可燃垃圾是指食物残渣和纸张等。
+
+831
+燃えないごみって、瓶とか、缶とかのことですか。
+もえないごみって、かめとか、かんとかのことですか。
+moenaigomitte、kametoka、kantokanokotodesuka
+ 不可燃垃圾是指瓶、罐一类的东西吗？
+
+832
+ごみの出す日が違うんでしょうか。
+ごみのだすにちがちがうんでしょうか。
+gominodasunichigachigaundeshouka
+ 倒垃圾的时间不一样吗？
+
+833
+どのようにして出すんですか。
+どのようにしてだすんですか。
+donoyounishitedasundesuka
+ 怎么倒呢？
+
+834
+一回の階段の横に置き場があります。
+いっかいのかいだんのよこにおきばがあります。
+ikkainokaidannoyokoniokibagaarimasu
+ 一楼楼梯口边上有放的地方。
+
+835
+燃えるごみは月、水、金、燃えないごみは火曜日に出してください。
+もえるごみはがつ、みず、きん、もえないごみはかようびにだしてください。
+moerugomihagatsu、mizu、kin、moenaigomihakayoubinidashitekudasai
+ 可燃垃圾星期一、三、五，不可燃垃圾星期二拿出去。
+
+836
+紙袋に入れて、朝九時ごろまでに出してくださいね。
+かみぶくろにいれて、あさくじごろまでにだしてくださいね。
+kamibukuroniirete、asakujigoromadenidashitekudasaine
+ 装在纸袋里，早晨9点之前拿出去。
+
+837
+いつも綺麗に掃除してあります。
+いつもきれいにそうじしてあります。
+itsumokireinisoujishitearimasu
+ 经常打扫得干干净净。
+
+838
+ここは水洗トイレですね。
+ここはすいせんトイレですね。
+kokohasuisentoiredesune
+ 这是水冲厕所。
+
+839
+このトイレはどうすればいいんでしょうか。
+このトイレはどうすればいいんでしょうか。
+konotoirehadousurebaiindeshouka
+ 这厕所怎么用呢？
+
+840
+これを押すと、水が出てくるでしょう。
+これをおすと、みずがでてくるでしょう。
+korewoosuto、mizugadetekurudeshou
+ 一按这个，水就出来了。
+
+841
+トイレットペーパーを買わないといけませんね。
+トイレットペーパーをかわないといけませんね。
+toirettopeepaawokawanaitoikemasenne
+ 得买手纸啊。
+
+842
+トイレットペーパー以外は使わないようにしなさい。
+トイレットペーパーいがいはつかわないようにしなさい。
+toirettopeepaaigaihatsukawanaiyounishinasai
+ 除手纸之外，都不能用。
+
+843
+そうでないと詰めってしまいますからね。
+そうでないとつめってしまいますからね。
+soudenaitotsumetteshimaimasukarane
+ 不然的话，就容易堵塞。
+
+844
+それは当たり前のことです。
+それはあたりまえのことです。
+sorehaatarimaenokotodesu
+ 那是应该的。
+
+845
+新聞、雑誌などはごみとして出してもいいですね。
+しんぶん、ざっしなどはごみとしてだしてもいいですね。
+shinbun、zasshinadohagomitoshitedashitemoiidesune
+ 报纸、杂志也可当作垃圾拿出去吧。
+
+846
+こうやって、水を流せばいいんですね。
+こうやって、みずをながせばいいんですね。
+kouyatte、mizuwonagasebaiindesune
+ 这样一弄，让水冲走就行了吧。
+
+847
+助けてください。
+たすけてください。
+tasuketekudasai
+ 请帮个忙。
+
+848
+ここへ電話してください。
+ここへでんわしてください。
+kokohedenwashitekudasai
+ 请帮我往这儿打个电话。
+
+849
+手紙を読んでください。
+てがみをよんでください。
+tegamiwoyondekudasai
+ 请替我看看信。
+
+850
+これは日本語でなんと言いますか。
+これはにほんごでなんといいますか。
+korehanihongodenantoiimasuka
+ 这个用日语怎么说？
+
+851
+本棚といいます。
+ほんだなといいます。
+hondanatoiimasu
+ 叫书架。
+
+852
+これは日本語でなんと読みますか。
+これはにほんごでなんとよみますか。
+korehanihongodenantoyomimasuka
+ 这用日语怎么读？
+
+853
+「洋服」と読みます。
+「ようふく」とよみます。
+「youfuku」toyomimasu
+ 读成[youfuku]。
+
+854
+もう一度言ってください。
+もういちどいっってください。
+mouichidoitsuttekudasai
+ 请再说一遍。
+
+855
+ちょっと教えてください。
+ちょっとおしえてください。
+chottooshietekudasai
+ 请告诉我。
+
+856
+どう行けばいいでしょうか。
+どういけばいいでしょうか。
+douikebaiideshouka
+ 怎么走好呢？
+
+857
+三つ目の信号を右に曲がります。
+みつめのしんごうをみぎにまがります。
+mitsumenoshingouwomiginimagarimasu
+ 在第三个红绿灯处向右转弯。
+
+858
+歩いて何分ぐらいですか。
+あるいてなんぷんぐらいですか。
+aruitenanpunguraidesuka
+ 步行要几分钟？
+
+859
+すぐ駅へ行って買ってきましょうか。
+すぐえきへいってかってきましょうか。
+suguekiheittekattekimashouka
+ 立即到车站去买吧。
+
+860
+いい天気になりました。
+いいてんきになりました。
+iitenkininarimashita
+ 天气好了。
+
+861
+やっと晴れました。
+やっとはれました。
+yattoharemashita
+好不容易天晴了。
+
+862
+雨がまだ降っていますか。
+あめがまだふっていますか。
+amegamadafutteimasuka
+ 雨还在下。
+
+863
+まだ止まらないらしいです。
+まだとまらないらしいです。
+madatomaranairashiidesu
+ 雨好象还没停。
+
+864
+みんな傘を差して歩いています。
+みんなかさをさしてあるいています。
+minnakasawosashitearuiteimasu
+ 大家走路都打着伞。
+
+865
+毎日、つゆのようによく降ります。
+まいにち、つゆのようによくおります。
+mainichi、tsuyunoyouniyokuorimasu
+ 每天都下雨，好象到了梅雨季节。
+
+866
+天気予報によると、明日も雨だそうです。
+てんきよほうによると、あしたもあめだそうです。
+tenkiyohouniyoruto、ashitamoamedasoudesu
+ 天气预报说，明天还有雨。
+
+867
+いつの間にか梅雨も終わったようです。
+いつのまにかつゆもおわったようです。
+itsunomanikatsuyumoowattayoudesu
+ 好象梅雨季节不知不觉地结束了。
+
+868
+昨日、梅雨明けの宣言が出たそうです。
+きのう、つゆあけけのせんげんがでたそうです。
+kinou、tsuyuakekenosengengadetasoudesu
+ 听说昨天已经发出梅雨季节结束的消息。
+
+869
+風通しが悪くて特に暑いんです。
+かぜとおしがわるくてとくにあついんです。
+kazetooshigawarukutetokuniatsuindesu
+ 通风不良，特别热。
+
+870
+僕の部屋のほうが少し増しかな。
+ぼくのへやのほうがすこしましかな。
+bokunoheyanohougasukoshimashikana
+ 我的房间可能好一些。
+
+871
+急に風が強くなって、雨も降りそうになりました。
+きゅうにかぜがつよくなって、あめもおりそうになりました。
+kyuunikazegatsuyokunatte、amemoorisouninarimashita
+ 风力突然增强，好象要下雨了。
+
+872
+台風が近づいているからでしょう。
+たいふうがちかづいているからでしょう。
+taifuugachikazuiteirukaradeshou
+ 也许因为台风正在接近。
+
+873
+天気の悪いときに、山登りは危ないです。
+てんきのわるいときに、やまのぼりはあぶないです。
+tenkinowaruitokini、yamanoborihaabunaidesu
+ 天气不好，登山很危险。
+
+874
+雨にぬれると、岩場は滑りやすくなります。
+あめにぬれると、いわばはすべりやすくなります。
+ameninureruto、iwabahasuberiyasukunarimasu
+ 被雨一淋，岩石多的地方就容易滑。
+
+875
+天気がよくなってから、出かければいいでしょう。
+てんきがよくなってから、でかければいいでしょう。
+tenkigayokunattekara、dekakerebaiideshou
+ 天好之后再出门吧。
+
+876
+すぐ天気予報の時間になります。
+すぐてんきよほうのじかんになります。
+sugutenkiyohounojikanninarimasu
+ 马上就到天气预报时间了。
+
+877
+今日は北後南の風、晴れでしょう。
+こんにちはきたのちみなみのかぜ、はれでしょう。
+konnichihakitanochiminaminokaze、haredeshou
+ 今天北风转南风，晴。
+
+878
+明日は南の風、晴れ、時々曇りで、朝晩涼しいでしょう。
+あしたはみなみのかぜ、はれ、ときどきくもりで、あさばんすずしいでしょう。
+ashitahaminaminokaze、hare、tokidokikumoride、asabansuzushiideshou
+ 明天南风、晴、有时阴天，早晚凉爽。
+
+879
+明日南よりの風、朝のうちは雨が残ります。
+あしたみなみよりのかぜ、あさのうちはあめがのこります。
+ashitaminamiyorinokaze、asanouchihaameganokorimasu
+ 明天南风，早上仍然有雨。
+
+880
+先週、家からの手紙がありました。
+せんしゅう、いえからのてがみがありました。
+senshuu、iekaranotegamigaarimashita
+ 上星期家里来信了。
+
+881
+うちのお祖母さんに死なれてしまいました。
+うちのおそぼさんにしなれてしまいました。
+uchinoosobosannishinareteshimaimashita
+ 我奶奶死了。
+
+882
+傘を忘れたために、雨に濡れてしまいました。
+かさをわすれたために、あめにぬれてしまいました。
+kasawowasuretatameni、ameninureteshimaimashita
+ 忘了带伞，被雨淋湿了。
+
+883
+道のそばで速く走っている自動車に泥水に掛けられてしまったのです。
+みちのそばではやくはしっているじどうしゃにどろみずにかけられてしまったのです。
+michinosobadehayakuhashitteirujidoushanidoromizunikakerareteshimattanodesu
+ 在路旁被飞驰的汽车溅了一身泥水。
+
+884
+今朝、荷物を整理しているとき、外国人登録証を失ったことに気づきました。
+けさ、にもつをせいりしているとき、がいこくじんとうろくしょをうったことにきづきました。
+kesa、nimotsuwoseirishiteirutoki、gaikokujintourokushowouttakotonikizukimashita
+ 今天早上整理行李时，发现外国人人居留证不见了。
+
+885
+いつ失ったのですか。
+いつうったのですか。
+itsuuttanodesuka
+ 什么时候丢失的？
+
+886
+連絡できるところと電話番号も書いてください。
+れんらくできるところとでんわばんごうもかいてください。
+renrakudekirutokorotodenwabangoumokaitekudasai
+ 请写上可联系的地址和电话号码。
+
+887
+見つかったら、すぐあなたに連絡します。
+みつかったら、すぐあなたにれんらくします。
+mitsukattara、suguanatanirenrakushimasu
+ 如果找到了，立刻跟你联系。
+
+888
+昨日、ひどい目にあいました。
+きのう、ひどいめにあいました。
+kinou、hidoimeniaimashita
+ 昨天碰到了倒霉事。
+
+889
+朝早く間違い電話に起こされました。
+あさはやくまちがいでんわにおこされました。
+asahayakumachigaidenwaniokosaremashita
+ 早晨，很早就被错拨电话闹醒了。
+
+890
+電車の中で財布を盗まれました。
+でんしゃのなかでさいふをぬすまれました。
+denshanonakadesaifuwonusumaremashita
+ 在电车上被偷走了钱包。
+
+891
+新宿で雨に降られました。
+しんじゅくであめにふられました。
+shinjukudeamenifuraremashita
+ 在新宿遭了雨。
+
+892
+センターでも先生に叱られました。
+センターでもせんせいにしかられました。
+sentaademosenseinishikararemashita
+ 在中心也被老师批评了。
+
+893
+授業中、居眠りをしたんです。
+じゅぎょうちゅう、いねむりをしたんです。
+jugyouchuu、inemuriwoshitandesu
+ 上课时打了瞌睡。
+
+894
+下宿に帰って、警察に呼ばれました。
+げしゅくにかえって、けいさつによばれました。
+geshukunikaette、keisatsuniyobaremashita
+ 回到住处，又被警察叫了去。
+
+895
+外国人登録証を落としただけです。
+がいこくじんとうろくしょをおとしただけです。
+gaikokujintourokushowootoshitadakedesu
+ 只是丢了外国人居留证。
+
+896
+明日試験なのに、大丈夫ですか。
+あしたしけんなのに、だいじょうぶですか。
+ashitashikennanoni、daijoubudesuka
+ 明天考试，没问题吧？
+
+897
+もう11時なのに、李さんはまだ帰ってきませんね。
+もう11ときなのに、すももさんはまだかえってきませんね。
+mou11tokinanoni、sumomosanhamadakaettekimasenne
+ 已经11点了，可是小李还没回来。
+
+898
+私はふだん怠けているので、試験の前は大変です。
+わたしはふだんなまけているので、しけんのまえはたいへんです。
+watashihafudannamaketeirunode、shikennomaehataihendesu
+ 平时我不用功，所以到了考前就慌了神。
+
+899
+夕食を済まして、みんな部屋に戻りました。
+ゆうしょくをすまして、みんなへやにもどりました。
+yuushokuwosumashite、minnaheyanimodorimashita
+ 晚饭后大家都回到了房间。
+
+900
+いつも土曜日や日曜日は遅くまで賑やかなのに、今日はどうしたんですか。
+いつもどようびやにちようびはおそくまでにぎやかなのに、こんにちはどうしたんですか。
+itsumodoyoubiyanichiyoubihaosokumadenigiyakananoni、konnichihadoushitandesuka
+ 平时星期六和星期天大家都玩到很晚才散，今天这是怎么啦？
+
+901
+昨日は学校が運動会だったので、月曜日に延ばしました。
+きのうはがっこうがうんどうかいだったので、げつようびにのばしました。
+kinouhagakkougaundoukaidattanode、getsuyoubininobashimashita
+ 因为昨天开运动会，所以考试延迟到星期一进行。
+
+902
+あなたはもう試験の準備ができましたか。
+あなたはもうしけんのじゅんびができましたか。
+anatahamoushikennojunbigadekimashitaka
+ 你已做好考前准备了吧？
+
+903
+どうして試験があるのに、テレビを見るのですか。
+どうしてしけんがあるのに、テレビをみるのですか。
+doushiteshikengaarunoni、terebiwomirunodesuka
+ 明天要考试，为什么你还看电视？
+
+904
+全国には約890校あります。
+ぜんこくにはやく890こうあります。
+zenkokunihayaku890kouarimasu
+ 全国大约有890所大学。
+
+905
+入学試験はそんなに厳しくはありませんね。
+にゅうがくしけんはそんなにきびしくはありませんね。
+nyuugakushikenhasonnanikibishikuhaarimasenne
+ 入学考试不会那么难吧？
+
+906
+志願者は有名な大学に集中しますから、その大学の競争率は大変高いです。
+しがんしゃはゆうめいなだいがくにしゅうちゅうしますから、そのだいがくのきょうそうりつはたいへんたかいです。
+shiganshahayuumeinadaigakunishuuchuushimasukara、sonodaigakunokyousouritsuhataihentakaidesu
+
+
+907
+多くの学生が入学試験に落ちて、一年か二年浪人生活を送ります。
+おおくのがくせいがにゅうがくしけんにおちて、いちねんかにねんろうにんせいかつをおくります。
+ookunogakuseiganyuugakushikenniochite、ichinenkaninenrouninseikatsuwookurimasu
+ 很多学生落榜后都想再考一年或二年。
+
+908
+李さんもこの大学を受けるつもりですか。
+すももさんもこのだいがくをうけるつもりですか。
+sumomosanmokonodaigakuwoukerutsumoridesuka
+ 小李也想考这所大学吗？
+
+909
+この大学の入学試験は難しそうですか。
+このだいがくのにゅうがくしけんはむずかしそうですか。
+konodaigakunonyuugakushikenhamuzukashisoudesuka
+ 这所大学的入学考试难吗？
+
+910
+いや、それほど難しくはなさそうです。
+いや、それほどむずかしくはなさそうです。
+iya、sorehodomuzukashikuhanasasoudesu
+ 不，不那么难。
+
+911
+昨日の入社試験はどうでしたか。
+きのうのにゅうしゃしけんはどうでしたか。
+kinounonyuushashikenhadoudeshitaka
+ 昨天的招收考试怎么样？
+
+912
+難しいことは難しかったですが、大体できました。
+むずかしいことはむずかしかったですが、だいたいできました。
+muzukashiikotohamuzukashikattadesuga、daitaidekimashita
+ 难是难，但大致上都做出来了。
+
+913
+貿易会社なので、語学が大切らしいです。
+ぼうえきかいしゃなので、ごがくがたいせつらしいです。
+bouekikaishananode、gogakugataisetsurashiidesu
+ 因为是贸易公司，所以似乎很重视语言。
+
+914
+普通の会話はそれほど難しいとは思いませんでした。
+ふつうのかいわはそれほどむずかしいとはおもいませんでした。
+futsuunokaiwahasorehodomuzukashiitohaomoimasendeshita
+ 一般会话并不感到很难。
+
+915
+専門のことについて、英語で答えさせられたのには困りました。
+せんもんのことについて、えいごでこたえさせられたのにはこまりました。
+senmonnokotonitsuite、eigodekotaesaseraretanonihakomarimashita
+ 感到难办的是，用英语回答专业问题。
+
+916
+今注意事項を言いますから、よく聞いてください。
+いまちゅういじこうをいいますから、よくきいてください。
+imachuuijikouwoiimasukara、yokukiitekudasai
+ 现在讲一下注意事项，请好好听。
+
+917
+辞書や本やノートなどを見てはいけません。
+じしょやほんやノートなどをみてはいけません。
+jishoyahonyanootonadowomitehaikemasen
+ 不能看辞典、书本和笔记等。
+
+918
+終わりのベルを鳴るまで、外へ出てはいけません。
+おわりのベルをなるまで、そとへでてはいけません。
+owarinoberuwonarumade、sotohedetehaikemasen
+ 未打下课铃不得外出。
+
+919
+答案用紙はかならず出さなくてはいけません。
+とうあんようしはかならずださなくてはいけません。
+touanyoushihakanarazudasanakutehaikemasen
+ 答卷一定要交。
+
+920
+問題用紙は出さなくてもいいですか。
+もんだいようしはださなくてもいいですか。
+mondaiyoushihadasanakutemoiidesuka
+ 试题卷可以不交吗？
+
+921
+書くものは万年筆かボールペンでなければいけません。
+かくものはまんねんひつかボールペンでなければいけません。
+kakumonohamannenhitsukaboorupendenakerebaikemasen
+ 必须用钢笔或圆珠笔书写。
+
+922
+ここではタバコを吸ってはいけません。
+ここではタバコをすってはいけません。
+kokodehatabakowosuttehaikemasen
+ 这里不准吸烟。
+
+923
+ちょっと暑いから?上着を脱いでもいいですか。
+ちょっとあついから?うわぎをぬいでもいいですか。
+chottoatsuikara?uwagiwonuidemoiidesuka
+ 有点热，可以脱掉上衣吗？
+
+924
+遠慮なく脱いでください。
+えんりょなくぬいでください。
+enryonakunuidekudasai
+ 不用客气，请脱吧。
+
+925
+授業は何時に始まりますか。
+じゅぎょうはなんじにはじまりますか。
+jugyouhananjinihajimarimasuka
+ 几点开始上课？
+
+926
+あの先生は厳しいです。
+あのせんせいはきびしいです。
+anosenseihakibishiidesu
+ 那位老师很严厉。
+
+927
+第九課で何か質問はありませんか。
+だいくかでなにかしつもんはありませんか。
+daikukadenanikashitsumonhaarimasenka
+ 第九课还有什么问题吗？
+
+928
+なければ次の課に進みましょう。
+なければつぎのかにすすみましょう。
+nakerebatsuginokanisusumimashou
+ 如果没有问题，那就进入下一课。
+
+929
+皆さん?宿題は持ってきましたか。
+みなさん?しゅくだいはもってきましたか。
+minasan?shukudaihamottekimashitaka
+ 同学们，作业本带来了吗？
+
+930
+明日は忘れないでください。
+あしたはわすれないでください。
+ashitahawasurenaidekudasai
+ 明天请不要忘记。
+
+931
+小林先生の休講は初めてです。
+こばやしせんせいのきゅうこうははじめてです。
+kobayashisenseinokyuukouhahajimetedesu
+ 小林老师停课还是第一次。
+
+932
+図書館でレポートを書きます。
+としょかんでレポートをかきます。
+toshokanderepootowokakimasu
+ 在图书馆写报告。
+
+933
+六時に起きるとすぐ勉強します。
+ろくときにおきるとすぐべんきょうします。
+rokutokiniokirutosugubenkyoushimasu
+ 6点钟起床后立即学习。
+
+934
+私は夜勉強しないから?朝しなければならないのです。
+わたしはよるべんきょうしないから?あさしなければならないのです。
+watashihayorubenkyoushinaikara?asashinakerebanaranainodesu
+ 我夜里不学习，所以必须早上学习。
+
+935
+宿題もたくさんあるし?予習もしなければなりませんから?どうしても遅くなります。
+しゅくだいもたくさんあるし?よしゅうもしなければなりませんから?どうしてもおそくなります。
+shukudaimotakusan'arushi?yoshuumoshinakerebanarimasenkara?doushitemoosokunarimasu
+ 作业很多，又得做好预习，所以怎么也得弄到很晚。
+
+936
+学校へ七時までに行かなければなりません。
+がっこうへしちじまでにいかなければなりません。
+gakkouheshichijimadeniikanakerebanarimasen
+ 必须7点前去学校。
+
+937
+作文は暫く止めて?今日からラジオのニュースを聞くことにしました。
+さくぶんはしばらくとめて?きょうからラジオのニュースをきくことにしました。
+sakubunhashibarakutomete?kyoukararajiononyuusuwokikukotonishimashita
+ 暂停作文课，从今天开始听新闻广播。
+
+938
+質問を出して?答えさせるのです。
+しつもんをだして?こたえさせるのです。
+shitsumonwodashite?kotaesaserunodesu
+ 提出问题让回答。
+
+939
+あなたは夕べも遅くまで勉強していましたか。
+あなたはゆうべもおそくまでべんきょうしていましたか。
+anatahayuubemoosokumadebenkyoushiteimashitaka
+ 你昨晚也学习到很晚吗？
+
+940
+宿題の作文を書いていました。
+しゅくだいのさくぶんをかいていました。
+shukudainosakubunwokaiteimashita
+ 写了作文。
+
+941
+今の日本で一番人気のあるスポーツは何ですか。
+いまのにっぽんでいちばんにんきのあるスポーツはなんですか。
+imanonippondeichibanninkinoarusupootsuhanandesuka
+ 现在日本最受欢迎的体育比赛是什么？
+
+942
+私はまだ相撲を見たことがありません。
+わたしはまだすもうをみたことがありません。
+watashihamadasumouwomitakotogaarimasen
+ 我还没看过相扑。
+
+943
+日本のテレビは野球の番組が多いです。
+にっぽんのテレビはやきゅうのばんぐみがおおいです。
+nipponnoterebihayakyuunobangumigaooidesu
+ 日本电视有很多棒球比赛节目。
+
+944
+私は野球のルールがよくわかりません。
+わたしはやきゅうのルールがよくわかりません。
+watashihayakyuunoruurugayokuwakarimasen
+ 我不太懂棒球规则。
+
+945
+この間、早慶戦を見ましたか。
+このかん、そうけいせんをみましたか。
+konokan、soukeisenwomimashitaka
+ 近期你看过早庆棒球队比赛吗？
+
+946
+早慶戦は試合も面白いが、応援も面白いでしょう。
+そうけいせんはしあいもおもしろいが、おうえんもおもしろいでしょう。
+soukeisenhashiaimoomoshiroiga、ouenmoomoshiroideshou
+ 早庆棒球比赛很有意思，啦啦队也很有看头。
+
+947
+バレーボールもバスケットボールもしています。
+バレーボールもバスケットボールもしています。
+bareeboorumobasukettoboorumoshiteimasu
+ 有打排球的，也有打兰球的。
+
+948
+あのテニスのコートがあきました。
+あのテニスのコートがあきました。
+anotenisunokootogaakimashita
+ 那个网球场空了。
+
+949
+車の運転ができますか。
+くるまのうんてんができますか。
+kurumanountengadekimasuka
+ 会开汽车吗？
+
+950
+今度いつかテニスを教えてください。
+こんどいつかテニスをおしえてください。
+kondoitsukatenisuwooshietekudasai
+ 下次什么时候请教我打网球。
+
+951
+スポーツの中で何が一番好きですか。
+スポーツのなかでなにがいちばんすきですか。
+supootsunonakadenanigaichibansukidesuka
+ 体育运动中你最喜欢什么？
+
+952
+今度の冬休みには長野県へスキーをしに行きたいと思っています。
+こんどのふゆやすみにはながのけんへスキーをしにいきたいとおもっています。
+kondonofuyuyasuminihanaganokenhesukiiwoshiniikitaitoomotteimasu
+ 这个寒假我想到长野县去滑雪。
+
+953
+碁や将棋を習いたいです。
+ごやしょうぎをならいたいです。
+goyashougiwonaraitaidesu
+ 我想学围棋和象棋等。
+
+954
+実際にやらなければ、うまくなりません。
+じっさいにやらなければ、うまくなりません。
+jissainiyaranakereba、umakunarimasen
+ 不亲自实践，就下不好。
+
+955
+よく映画を見ますか。
+よくえいがをみますか。
+yokueigawomimasuka
+ 你常看电影吗？
+
+956
+フランス映画はめったに見ません。
+フランスえいがはめったにみません。
+furansueigahamettanimimasen
+ 我很少看法国电影。
+
+957
+日本映画に詳しいですね。
+にほんえいがにくわしいですね。
+nihon'eiganikuwashiidesune
+ 你对日本电影很精通啊。
+
+958
+真由美を演じた女優さん、本当にあの役がふさわしかったね。
+まゆみをえんじたじょゆうさん、ほんとうにあのやくがふさわしかったね。
+mayumiwoenjitajoyuusan、hontounianoyakugafusawashikattane
+ 演真由美的那个女演员演得真象啊。
+
+959
+このごろ流行った歌がよく放送されます。
+このごろはやったうたがよくほうそうされます。
+konogorohayattautagayokuhousousaremasu
+ 最近经常播放流行歌曲。
+
+960
+やっと少し弾けるようになりました。
+やっとすこしひけるようになりました。
+yattosukoshihikeruyouninarimashita
+ 总算会弹一点了。
+
+961
+音楽学校に通っていて、ピアノを習っています。
+おんがくがくこうにとおっていて、ピアノをならっています。
+ongakugakukounitootteite、pianowonaratteimasu
+ 经常到音乐学校去学弹钢琴。
+
+962
+休みの日にはよく上田さんがピアノを弾いて、私が歌を歌います。
+やすみのにちにはよくうえださんがピアノをひいて、わたしがうたをうたいます。
+yasuminonichinihayokuuedasangapianowohiite、watashigautawoutaimasu
+ 节假日经常由上田弹钢琴我唱歌。
+
+963
+盆踊りは太鼓を合わせて踊ります。
+ぼんおどりはたいこをあわせておどります。
+bon'odorihataikowoawaseteodorimasu
+ 盂兰盆节舞是合着鼓点跳的。
+
+964
+私たちも踊りの輪に入って、一緒に踊りましょう。
+わたしたちもおどりのわにいっって、いっしょにおどりましょう。
+watashitachimoodorinowaniitsutte、isshoniodorimashou
+ 我们也参加到跳舞圈子一起跳吧。
+
+965
+歌舞伎の特徴として、衣装が舞台装置が豪華なんです。
+かぶきのとくちょうとして、いしょうがぶたいそうちがごうかなんです。
+kabukinotokuchoutoshite、ishougabutaisouchigagoukanandesu
+ 歌舞伎的特点就是，戏装和舞台布置都很豪华。
+
+966
+役者の動きと音楽が、ぴったり合っていますね。
+やくしゃのうごきとおんがくが、ぴったりあっていますね。
+yakushanougokitoongakuga、pittariatteimasune
+ 演员的动作和音乐十分合拍。
+
+967
+大学を卒業して、どんな仕事をなさるつもりですか。
+だいがくをそつぎょうして、どんなしごとをなさるつもりですか。
+daigakuwosotsugyoushite、donnashigotowonasarutsumoridesuka
+ 大学毕业后，打算做什么工作？
+
+968
+将来はアナウンサーになろうと思っています。
+しょうらいはアナウンサーになろうとおもっています。
+shouraihaanaunsaaninaroutoomotteimasu
+ 将来想当播音员。
+
+969
+どのほうへ就職なさりたいんですか。
+どのほうへしゅうしょくなさりたいんですか。
+donohouheshuushokunasaritaindesuka
+ 想到哪方面就职？
+
+970
+本人は建築関係の会社へ参りたいと申しております。
+ほんにんはけんちくかんけいのかいしゃへまいりたいともうしております。
+honninhakenchikukankeinokaishahemairitaitomoushiteorimasu
+ 本人说，想到与建筑有关的公司工作。
+
+971
+中国に帰ったら、日本語の先生になりたいそうですね。
+ちゅうごくにかえったら、にほんごのせんせいになりたいそうですね。
+chuugokunikaettara、nihongonosenseininaritaisoudesune
+ 听说你想回中国当日语老师。
+
+972
+彼らの話では、日本では大きな会社に就職を希望する人が以前より減ったらしいです。
+かれらのはなしでは、にっぽんではおおきなかいしゃにしゅうしょくをきぼうするにんがいぜんよりへったらしいです。
+kareranohanashideha、nippondehaookinakaishanishuushokuwokibousuruningaizenyorihettarashiidesu
+ 据他们说，在日本想到大公司就职的人比以前减少了。
+
+973
+彼らはお金や地位より、楽しく仕事することを望んでいるようです。
+かれらはおきんやちいより、たのしくしごとすることをのぞんでいるようです。
+karerahaokinyachiiyori、tanoshikushigotosurukotowonozondeiruyoudesu
+ 他们好象不看重金钱地位，希望能舒心地去工作。
+
+974
+日本へ来た目的は何ですか。
+にっぽんへきたもくてきはなんですか。
+nipponhekitamokutekihanandesuka
+ 你来日本的目的是什么？
+
+975
+中世文学で使われている言葉は現代日本語とずいぶん違います。
+ちゅうせいぶんがくでつかわれていることばはげんだいにほんごとずいぶんちがいます。
+chuuseibungakudetsukawareteirukotobahagendainihongotozuibunchigaimasu
+ 中世纪文学使用的语言同现代日文相差很大。
+
+976
+文語文は日本人にとっても難しいです。
+ぶんごぶんはにほんじんにとってもむずかしいです。
+bungobunhanihonjinnitottemomuzukashiidesu
+ 文言文对日本人来说也很难。
+
+977
+修士論文は古今集だったはずです。
+しゅうしろんぶんはこきんしゅうだったはずです。
+shuushironbunhakokinshuudattahazudesu
+ 硕士论文应该是古今集研究。
+
+978
+もう修士コースは済みましたか。
+もうしゅうしコースはすみましたか。
+moushuushikoosuhasumimashitaka
+ 硕士论文写好了吗？
+
+979
+江戸時代の教育について書きました。
+えどじだいのきょういくについてかきました。
+edojidainokyouikunitsuitekakimashita
+ 写的是关于江户时代的教育。
+
+980
+今は慣れてあまり難しくないと思います。
+いまはなれてあまりむずかしくないとおもいます。
+imahanareteamarimuzukashikunaitoomoimasu
+ 现在习惯了不感到太难了。
+
+981
+新年おめでとうございます。
+しんねんおめでとうございます。
+shinnen'omedetougozaimasu
+ 新年快乐！
+
+982
+初詣で、みんな家族の健康や幸福を祈るんです。
+はつもうでで、みんなかぞくのけんこうやこうふくをいのるんです。
+hatsumoudede、minnakazokunokenkouyakoufukuwoinorundesu
+ 新年参拜时，大家都在祝福自己的家人健康幸福。
+
+983
+ご就職おめでとうございます。
+ごしゅうしょくおめでとうございます。
+goshuushokuomedetougozaimasu
+ 祝贺你有了工作。
+
+984
+私には向いていそうです。
+わたしにはむいていそうです。
+watashinihamuiteisoudesu
+ 好象适合于我。
+
+985
+お誕生日おめでとうございます。
+おたんじょうびおめでとうございます。
+otanjoubiomedetougozaimasu
+ 生日快乐！
+
+986
+このバラは李さんが買ってあげたものです。
+このバラはすももさんがかってあげたものです。
+konobarahasumomosangakatteagetamonodesu
+ 这束玫瑰是小李买来送你的。
+
+987
+あなたはもう結婚したそうですね。
+あなたはもうけっこんしたそうですね。
+anatahamoukekkonshitasoudesune
+ 听说你已经结婚了？
+
+988
+一日も早く息子さんが得られたようにお祈りいたします。
+ついたちもはやくむすこさんがえられたようにおいのりいたします。
+tsuitachimohayakumusukosangaeraretayounioinoriitashimasu
+ 祝你早得贵子。
+
+989
+すばらしい成績で卒業されて、本当によかったですね。
+すばらしいせいせきでそつぎょうされて、ほんとうによかったですね。
+subarashiiseisekidesotsugyousarete、hontouniyokattadesune
+ 你以优异成绩毕业，真是太好了。
+
+990
+日本文学の成績がよかったのはおかげさまです。
+にほんぶんまなのせいせきがよかったのはおかげさまです。
+nihonbunmananoseisekigayokattanohaokagesamadesu
+ 日本文学取得好成绩多亏了你的指导。
+
+991
+国へお帰りになるんだそうですね。
+くにへおかえりになるんだそうですね。
+kuniheokaerininarundasoudesune
+听说你要回国吧？
+
+992
+帰る支度でお疲れになったでしょう。
+かえるしたくでおつかれになったでしょう。
+kaerushitakudeotsukareninattadeshou
+ 回国准备很累吧。
+
+993
+午前十時の日航機だそうです。
+ごぜんとときのにっこうきだそうです。
+gozentotokinonikkoukidasoudesu
+ 听说是上午10点的日航飞机。
+
+994
+一緒になりだ空港まで見送りに行きましょう。
+いっしょになりだくうこうまでみおくりにいきましょう。
+isshoninaridakuukoumademiokuriniikimashou
+ 我们一起送他去机场吧。
+
+995
+わざわざお見送りくださいまして、恐れ入ります。
+わざわざおみおくりくださいまして、おそれいります。
+wazawazaomiokurikudasaimashite、osoreirimasu
+ 特意来送我，实在感激不尽。
+
+996
+途中どうぞお気をつけてください。
+とちゅうどうぞおきをつけてください。
+tochuudouzookiwotsuketekudasai
+ 途中请多小心。
+
+997
+お別れするのは大変名残惜しいです。
+おわかれするのはたいへんなごりおしいです。
+owakaresurunohataihennagorioshiidesu
+ 分别之际实在令人恋恋不舍。
+
+998
+どのように感謝したらいいかわかりません。
+どのようにかんしゃしたらいいかわかりません。
+donoyounikanshashitaraiikawakarimasen
+ 不知如何感谢你才好。
+
+999
+搭乗手続きは済ませましたね。
+とうじょうてつづきはすませましたね。
+toujoutetsuzukihasumasemashitane
+ 乘机手续都办好了吧？
+
+1000
+大きな荷物は貨物扱いにしました。
+おおきなにもつはかもつあつかいにしました。
+ookinanimotsuhakamotsuatsukainishimashita
+ 大件行李都托运了。
